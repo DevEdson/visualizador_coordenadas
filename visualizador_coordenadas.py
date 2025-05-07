@@ -3,9 +3,12 @@ import tkinter as tk
 from tkinter import filedialog
 from PIL import Image, ImageTk
 import csv
+import random
 
 class PDFViewer:
     def __init__(self, root):
+        self.rainbow_colors = ["#FF0000", "#FFA500", "#FFFF00", "#008000", "#0000FF", "#4B0082", "#EE82EE"]
+
         self.root = root
         self.root.title("Visualizador de PDF")
         
@@ -139,7 +142,9 @@ class PDFViewer:
             x2 = x_pt + width_pt
             y2 = y_tk
 
-            rect_id = self.canvas.create_rectangle(x1, y1, x2, y2, outline="red", width=2)
+            color = random.choice(self.rainbow_colors)
+            rect_id = self.canvas.create_rectangle(x1, y1, x2, y2, outline=color, width=2)
+
             self.drawn_items.append(rect_id)
         except ValueError:
             print("Por favor, insira valores numéricos válidos.")
