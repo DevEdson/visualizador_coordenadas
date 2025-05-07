@@ -21,14 +21,11 @@ class PDFViewer:
         self.next_button = tk.Button(root, text="Próxima", command=self.next_page)
         self.next_button.pack(side=tk.LEFT)
 
-        self.zoom_in_button = tk.Button(root, text="Zoom +", command=self.zoom_in)
-        self.zoom_in_button.pack(side=tk.LEFT)
-
-        self.zoom_out_button = tk.Button(root, text="Zoom -", command=self.zoom_out)
-        self.zoom_out_button.pack(side=tk.LEFT)
-
         self.export_button = tk.Button(root, text="Exportar Coordenadas", command=self.export_coords)
         self.export_button.pack(side=tk.LEFT)
+
+        self.clear_button = tk.Button(root, text="Limpar Marcações", command=self.clear_marks)
+        self.clear_button.pack(side=tk.LEFT)
 
         self.coord_label = tk.Label(root, text="Coordenadas: (largura, altura)")
         self.coord_label.pack(side=tk.RIGHT)
@@ -41,21 +38,21 @@ class PDFViewer:
         self.y_label = tk.Label(root, text="Y:")
         self.y_label.pack(side=tk.RIGHT)
 
-
         self.x_entry = tk.Entry(root, width=6)
         self.x_entry.pack(side=tk.RIGHT)
         self.x_label = tk.Label(root, text="X:")
         self.x_label.pack(side=tk.RIGHT)
 
-      
+   
+
         self.sig_width_entry = tk.Entry(root, width=5)
-        self.sig_width_entry.insert(0, "50")  # valor padrão
+        self.sig_width_entry.insert(0, "50")
         self.sig_width_entry.pack(side=tk.RIGHT)
         self.sig_width_label = tk.Label(root, text="Largura (mm):")
         self.sig_width_label.pack(side=tk.RIGHT)
 
         self.sig_height_entry = tk.Entry(root, width=5)
-        self.sig_height_entry.insert(0, "20")  # valor padrão
+        self.sig_height_entry.insert(0, "20")
         self.sig_height_entry.pack(side=tk.RIGHT)
         self.sig_height_label = tk.Label(root, text="Altura (mm):")
         self.sig_height_label.pack(side=tk.RIGHT)
@@ -65,8 +62,8 @@ class PDFViewer:
 
         self.doc = None
         self.page_num = 0
-        self.zoom = 1.0
         self.marked_coords = []
+        self.drawn_items = []  # Armazena IDs das marcações
 
     def open_pdf(self):
         file_path = filedialog.askopenfilename(filetypes=[("PDF files", "*.pdf")])
@@ -77,9 +74,9 @@ class PDFViewer:
 
     def show_page(self):
         if self.doc:
+            self.clear_marks()
             page = self.doc.load_page(self.page_num)
-            matrix = fitz.Matrix(self.zoom, self.zoom)
-            pix = page.get_pixmap(matrix=matrix)
+            pix = page.get_pixmap()
             img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
             img_tk = ImageTk.PhotoImage(img)
 
@@ -100,8 +97,8 @@ class PDFViewer:
     def show_coordinates(self, event, page):
         x, y = event.x, event.y
         y_pdf = self.canvas.winfo_height() - y
-        x_mm = x * 25.4 / 72 / self.zoom
-        y_mm = y_pdf * 25.4 / 72 / self.zoom
+        x_mm = x * 25.4 / 72
+        y_mm = y_pdf * 25.4 / 72
         self.coord_label.config(text=f"Coordenadas: (largura x: {x_mm:.2f} mm, altura y: {y_mm:.2f} mm)")
 
     def prev_page(self):
@@ -114,21 +111,38 @@ class PDFViewer:
             self.page_num += 1
             self.show_page()
 
-    def zoom_in(self):
-        self.zoom += 0.1
-        self.show_page()
-
-    def zoom_out(self):
-        self.zoom = max(0.1, self.zoom - 0.1)
-        self.show_page()
-
     def mark_position(self, event):
         x, y = event.x, event.y
         y_pdf = self.canvas.winfo_height() - y
-        x_mm = x * 25.4 / 72 / self.zoom
-        y_mm = y_pdf * 25.4 / 72 / self.zoom
+        x_mm = x * 25.4 / 72
+        y_mm = y_pdf * 25.4 / 72
         self.marked_coords.append((x_mm, y_mm))
-        self.canvas.create_oval(x-5, y-5, x+5, y+5, outline="blue", width=2)
+        circle_id = self.canvas.create_oval(x-5, y-5, x+5, y+5, outline="blue", width=2)
+        self.drawn_items.append(circle_id)
+
+    def go_to_coordinates(self):
+        try:
+            x_mm = float(self.x_entry.get())
+            y_mm = float(self.y_entry.get())
+            sig_width_mm = float(self.sig_width_entry.get())
+            sig_height_mm = float(self.sig_height_entry.get())
+
+            x_pt = x_mm * 72 / 25.4
+            y_pt = y_mm * 72 / 25.4
+            width_pt = sig_width_mm * 72 / 25.4
+            height_pt = sig_height_mm * 72 / 25.4
+
+            y_tk = self.canvas.winfo_height() - y_pt
+
+            x1 = x_pt
+            y1 = y_tk - height_pt
+            x2 = x_pt + width_pt
+            y2 = y_tk
+
+            rect_id = self.canvas.create_rectangle(x1, y1, x2, y2, outline="red", width=2)
+            self.drawn_items.append(rect_id)
+        except ValueError:
+            print("Por favor, insira valores numéricos válidos.")
 
     def export_coords(self):
         if not self.marked_coords:
@@ -143,28 +157,11 @@ class PDFViewer:
                 writer.writerows(self.marked_coords)
             print("Coordenadas exportadas para", file_path)
 
-    def go_to_coordinates(self):
-        try:
-            x_mm = float(self.x_entry.get())
-            y_mm = float(self.y_entry.get())
-            sig_width_mm = float(self.sig_width_entry.get())
-            sig_height_mm = float(self.sig_height_entry.get())
-
-            x_pt = x_mm * 72 / 25.4 * self.zoom
-            y_pt = y_mm * 72 / 25.4 * self.zoom
-            width_pt = sig_width_mm * 72 / 25.4 * self.zoom
-            height_pt = sig_height_mm * 72 / 25.4 * self.zoom
-
-            y_tk = self.canvas.winfo_height() - y_pt
-
-            x1 = x_pt
-            y1 = y_tk - height_pt
-            x2 = x_pt + width_pt
-            y2 = y_tk
-
-            self.canvas.create_rectangle(x1, y1, x2, y2, outline="red", width=2)
-        except ValueError:
-            print("Por favor, insira valores numéricos válidos.")
+    def clear_marks(self):
+        for item_id in self.drawn_items:
+            self.canvas.delete(item_id)
+        self.drawn_items.clear()
+        self.marked_coords.clear()
 
 root = tk.Tk()
 viewer = PDFViewer(root)
