@@ -1,0 +1,3579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">id</Data></Cell>
+			<Cell><Data ss:Type="String">Titulo</Data></Cell>
+			<Cell><Data ss:Type="String">Status</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">283326</Data></Cell>
+			<Cell><Data ss:Type="String">2000077 - LABORATORIO BIOCLINICO CRICIUMA LTDA - 83.653.048/0001-26</Data></Cell>
+			<Cell><Data ss:Type="String">1 - Em assinatura</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">683365</Data></Cell>
+			<Cell><Data ss:Type="String">20020982 - VITA ANALISE LABORATORIO - 09.636.738/0001-14</Data></Cell>
+			<Cell><Data ss:Type="String">1 - Em assinatura</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156809</Data></Cell>
+			<Cell><Data ss:Type="String">4000064 - INSTITUTO MARIA SCHMITT DE DESENVOLVIMENTO DE ENSINO, ASSISTENCIA SOCIAL E SAUDE DO CIDADAO - 28700530000838</Data></Cell>
+			<Cell><Data ss:Type="String">1 - Em assinatura</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479356</Data></Cell>
+			<Cell><Data ss:Type="String">40040830 - ASSOCIACAO HOSPITALAR NOSSA SENHORA DE FATIMA SC - 07.420.153/0001-37</Data></Cell>
+			<Cell><Data ss:Type="String">1 - Em assinatura</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522480</Data></Cell>
+			<Cell><Data ss:Type="String">19013943 - JOSELAINY STELA PIRES GALEAZZI - 022.205.169-89</Data></Cell>
+			<Cell><Data ss:Type="String">1 - Em assinatura</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173702</Data></Cell>
+			<Cell><Data ss:Type="String">95000016 - RAQUEL DE OLIVEIRA - 650.697.819-87</Data></Cell>
+			<Cell><Data ss:Type="String">10 - Arquivados</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176397</Data></Cell>
+			<Cell><Data ss:Type="String">6000087 - CLINICA DE PSICOLOGIA TACIANA DABOITA EIRELI - 08.164.225/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">10 - Arquivados</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85286</Data></Cell>
+			<Cell><Data ss:Type="String"> 8000013 - NEFROCLINICA CRICIUMA LTDA - 75892299000135</Data></Cell>
+			<Cell><Data ss:Type="String">10 - Arquivados</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283340</Data></Cell>
+			<Cell><Data ss:Type="String">6000091 - LEVVE ORTOPEDIA LTDA - 08.656.703/0001-84</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176396</Data></Cell>
+			<Cell><Data ss:Type="String">6000082 - BEATRIZ GALATTO NESI - ME - 28.439.429/0001-07</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156383</Data></Cell>
+			<Cell><Data ss:Type="String">6000082 - BEATRIZ GALATTO NESI - ME - 28439429000107</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173698</Data></Cell>
+			<Cell><Data ss:Type="String">6000084 - CONSULTORIO DE FONOAUDIOLOGIA ANDREIA FERRARY LTDA - ME - 28.776.659/0001-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192236</Data></Cell>
+			<Cell><Data ss:Type="String">6000084 - CONSULTORIO DE FONOAUDIOLOGIA ANDREIA FERRARY LTDA - ME - 28.776.659/0001-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">197541</Data></Cell>
+			<Cell><Data ss:Type="String">6000085 - EQUILIBRIO CLINICA MEDICA LTDA - 04.343.304/0001-02</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192237</Data></Cell>
+			<Cell><Data ss:Type="String">6000087 - CLINICA DE PSICOLOGIA TACIANA DABOITA EIRELI - 08.164.225/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">199575</Data></Cell>
+			<Cell><Data ss:Type="String">6000087 - CLINICA DE PSICOLOGIA TACIANA DABOITA EIRELI - 08.164.225/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283378</Data></Cell>
+			<Cell><Data ss:Type="String">6000089 - DEBORA CASAGRANDE JUNQUEIRA - 30.246.724/0001-80</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">555661</Data></Cell>
+			<Cell><Data ss:Type="String">6000079 - MIOCUORE CARDIOLOGIA LTDA - 27.238.747/0001-39</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">393048</Data></Cell>
+			<Cell><Data ss:Type="String">6000091 - LEVVE ORTOPEDIA LTDA - 08.656.703/0001-84</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455081</Data></Cell>
+			<Cell><Data ss:Type="String">6000091 - LEVVE ORTOPEDIA LTDA - 08.656.703/0001-84</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">555650</Data></Cell>
+			<Cell><Data ss:Type="String">6000091 - LEVVE ORTOPEDIA LTDA - 08.656.703/0001-84</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85301</Data></Cell>
+			<Cell><Data ss:Type="String">6000091 - LEVVE ORTOPEDIA LTDA - 08656703000184</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">162050</Data></Cell>
+			<Cell><Data ss:Type="String">6000091 - LEVVE ORTOPEDIA LTDA - 08656703000184</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">661872</Data></Cell>
+			<Cell><Data ss:Type="String">6000092  - INSTITUTO EXPANSAO SISTEMICA LTDA - 12.502.762/0002-56</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">178871</Data></Cell>
+			<Cell><Data ss:Type="String">6000092 - INSTITUTO EXPANSAO SISTEMICA LTDA - 12.502.762/0002-56</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192235</Data></Cell>
+			<Cell><Data ss:Type="String">6000092 - INSTITUTO EXPANSAO SISTEMICA LTDA - 12.502.762/0002-56</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176390</Data></Cell>
+			<Cell><Data ss:Type="String">6000070 - JANAINA ROCHA DE OLIVEIRA BASCHIROTTO - 26.148.293/0001-42</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85305</Data></Cell>
+			<Cell><Data ss:Type="String">6000059 - ENDOSUL CLINICA DE GASTROENTEROLOGIA LTDA - ME - 22020946000152</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156910</Data></Cell>
+			<Cell><Data ss:Type="String">6000059 - ENDOSUL CLINICA DE GASTROENTEROLOGIA LTDA - ME - 22020946000152</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">89698</Data></Cell>
+			<Cell><Data ss:Type="String">10000012 - ONKOLOGICA CLINICA MEDICA LTDA - 15246302000111</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455083</Data></Cell>
+			<Cell><Data ss:Type="String">6000064 - ANIMA CLINICA MEDICA S/S LTDA - ME - 25.194.996/0001-44</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91055</Data></Cell>
+			<Cell><Data ss:Type="String">6000064 - ANIMA CLINICA MEDICA S/S LTDA - ME - 25194996000144</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">153602</Data></Cell>
+			<Cell><Data ss:Type="String">6000064 - ANIMA CLINICA MEDICA S/S LTDA - ME - 25194996000144</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192242</Data></Cell>
+			<Cell><Data ss:Type="String">6000069 - CONTATO ATENDIMENTO EM PSICOLOGIA LTDA - ME - 26.076.357/0001-47</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">204701</Data></Cell>
+			<Cell><Data ss:Type="String">6000069 - CONTATO ATENDIMENTO EM PSICOLOGIA LTDA - ME - 26.076.357/0001-47</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173706</Data></Cell>
+			<Cell><Data ss:Type="String">6000093 - MARIELY BARCELOS NUTRICAO LTDA - 30.668.624/0001-42</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192243</Data></Cell>
+			<Cell><Data ss:Type="String">6000070 - JANAINA ROCHA DE OLIVEIRA BASCHIROTTO - 26.148.293/0001-42</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176393</Data></Cell>
+			<Cell><Data ss:Type="String">6000073 - CLINICA DE PSICOLOGIA PLENITUDE LTDA - ME - 26.737.679/0001-90</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192239</Data></Cell>
+			<Cell><Data ss:Type="String">6000073 - CLINICA DE PSICOLOGIA PLENITUDE LTDA - ME - 26.737.679/0001-90</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283379</Data></Cell>
+			<Cell><Data ss:Type="String">6000075 - NEUROCENTRO CENTRO DE ATENDIMENTO NEUROLOGICO LTDA - ME - 02.030.155/0001-04</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176238</Data></Cell>
+			<Cell><Data ss:Type="String">6000079 - MIOCUORE CARDIOLOGIA LTDA - 27.238.747/0001-39</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">415073</Data></Cell>
+			<Cell><Data ss:Type="String">6000079 - MIOCUORE CARDIOLOGIA LTDA - 27.238.747/0001-39</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455084</Data></Cell>
+			<Cell><Data ss:Type="String">6000079 - MIOCUORE CARDIOLOGIA LTDA - 27.238.747/0001-39</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">279773</Data></Cell>
+			<Cell><Data ss:Type="String">6000130 - ELOA SACHET NUERNBERG LTDA - 28.439.445/0001-91</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283376</Data></Cell>
+			<Cell><Data ss:Type="String">6000121 - C & S SERVICOS MEDICOS LTDA - 46.626.174/0001-65</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283377</Data></Cell>
+			<Cell><Data ss:Type="String">6000123 - B & B SERVICOS MEDICOS LTDA - 27.742.969/0001-94</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283374</Data></Cell>
+			<Cell><Data ss:Type="String">6000124 - BBD SERVICOS MEDICOS LTDA - 29.688.923/0001-60</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283375</Data></Cell>
+			<Cell><Data ss:Type="String">6000125 - BERGMANN CARDOSO SERVICOS MEDICOS LTDA - 40.102.577/0001-29</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283373</Data></Cell>
+			<Cell><Data ss:Type="String">6000126 - BARCELOS SERVICOS MEDICOS LTDA - 41.339.616/0001-79</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283372</Data></Cell>
+			<Cell><Data ss:Type="String">6000127 - ONCOCIRURGIA CLINICA MEDICA LTDA - 36.770.883/0001-66</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">212852</Data></Cell>
+			<Cell><Data ss:Type="String">6000129 - GUSTAVO CARDOSO SERVICOS MEDICOS LTDA - 32.488.379/0001-17</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522499</Data></Cell>
+			<Cell><Data ss:Type="String">6000130 - DRA ELOA GINECOLOGISTA E OBSTETRA LTDA - 28.439.445/0001-91</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455051</Data></Cell>
+			<Cell><Data ss:Type="String">6000120 - CLINICA SARA RIBEIRO SS - 21.033.890/0001-08</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522498</Data></Cell>
+			<Cell><Data ss:Type="String">6000131 - JSB SERVICOS MEDICOS EIRELI - 27.955.272/0001-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278505</Data></Cell>
+			<Cell><Data ss:Type="String">6000132 - LUMA CLINICA MEDICA LTDA - 29.833.908/0001-68</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522500</Data></Cell>
+			<Cell><Data ss:Type="String">6000132 - LUMA CLINICA MEDICA LTDA - 29.833.908/0001-68</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">415302</Data></Cell>
+			<Cell><Data ss:Type="String">6000133 - SINARA FRANCIELLY EDUARDO - 50.808.089/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332038</Data></Cell>
+			<Cell><Data ss:Type="String">6000134 - SALUTAR ESPACO MULTIDISCIPLINAR LTDA - 43.284.364/0001-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479317</Data></Cell>
+			<Cell><Data ss:Type="String">6000135 - CARDIOLOGIA BORTOLUZZI LTDA - 52.012.528/0001-84</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">366719</Data></Cell>
+			<Cell><Data ss:Type="String">6000136 - CLINICA DE PSICOLOGIA MOVENDO O MUNDO 333 LTDA - 50.472.330/0001-58</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479391</Data></Cell>
+			<Cell><Data ss:Type="String">6000136 - CLINICA DE PSICOLOGIA MOVENDO O MUNDO 333 LTDA - 50.472.330/0001-58</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283317</Data></Cell>
+			<Cell><Data ss:Type="String">6000115 - APS - CMV MEDICINA LTDA - 42.116.644/0001-90</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192234</Data></Cell>
+			<Cell><Data ss:Type="String">6000093 - MARIELY BARCELOS NUTRICAO LTDA - 30.668.624/0001-42</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192193</Data></Cell>
+			<Cell><Data ss:Type="String">6000096 - CLINICA NOSSA SRA DOS NAVEGANTES LTDA - 95.835.328/0001-34</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85492</Data></Cell>
+			<Cell><Data ss:Type="String">6000096 - CLINICA NOSSA SRA DOS NAVEGANTES LTDA - 95835328000134</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283330</Data></Cell>
+			<Cell><Data ss:Type="String">6000102 - PUERITA SERVICOS MEDICOS LTDA - 27.028.735/0001-80</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173697</Data></Cell>
+			<Cell><Data ss:Type="String">6000110 - KAMILA DOS SANTOS SCOTTI - 36.518.836/0001-20</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173699</Data></Cell>
+			<Cell><Data ss:Type="String">6000110 - KAMILA DOS SANTOS SCOTTI - 36.518.836/0001-20</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176467</Data></Cell>
+			<Cell><Data ss:Type="String">6000110 - KAMILA DOS SANTOS SCOTTI - 36.518.836/0001-20</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192233</Data></Cell>
+			<Cell><Data ss:Type="String">6000110 - KAMILA DOS SANTOS SCOTTI - 36.518.836/0001-20</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455082</Data></Cell>
+			<Cell><Data ss:Type="String">6000059 - ENDOSUL CLINICA DE GASTROENTEROLOGIA LTDA - ME - 22.020.946/0001-52</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192190</Data></Cell>
+			<Cell><Data ss:Type="String">6000116 - OTOPAN OTORRINOLARINGOLOGIA LTDA - 35.809.940/0001-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344648</Data></Cell>
+			<Cell><Data ss:Type="String">6000116 - OTOPAN OTORRINOLARINGOLOGIA LTDA - 35.809.940/0001-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455077</Data></Cell>
+			<Cell><Data ss:Type="String">6000116 - OTOPAN OTORRINOLARINGOLOGIA LTDA - 35.809.940/0001-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91017</Data></Cell>
+			<Cell><Data ss:Type="String">6000116 - OTOPAN OTORRINOLARINGOLOGIA LTDA - 35809940000100</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">631557</Data></Cell>
+			<Cell><Data ss:Type="String">6000119 - NEUROESPECIALISTAS CLINICA DE NEUROLOGIA LTDA - 42.377.201/0001-52</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">631559</Data></Cell>
+			<Cell><Data ss:Type="String">6000119 - NEUROESPECIALISTAS CLINICA DE NEUROLOGIA LTDA - 42.377.201/0001-52</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283337</Data></Cell>
+			<Cell><Data ss:Type="String">6000120 - CLINICA SARA RIBEIRO SS - 21.033.890/0001-08</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283331</Data></Cell>
+			<Cell><Data ss:Type="String">6000005 - CLINICA OTORRINOLARINGOLOGICA OTOFACIAL LTDA - 05.532.631/0001-75</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283343</Data></Cell>
+			<Cell><Data ss:Type="String">6000001 - CARDIO VITTA - DIAGNOSTICOS EM CARDIOLOGIA LTDA - 16.841.656/0001-77</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455100</Data></Cell>
+			<Cell><Data ss:Type="String">6000001 - CARDIO VITTA - DIAGNOSTICOS EM CARDIOLOGIA LTDA - 16.841.656/0001-77</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91054</Data></Cell>
+			<Cell><Data ss:Type="String">6000001 - CARDIO VITTA - DIAGNOSTICOS EM CARDIOLOGIA LTDA - 16841656000177</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">586804</Data></Cell>
+			<Cell><Data ss:Type="String">6000003 - PRONTO AR PULMOCLINICA CLINICA MEDICA LTDA - 80.978.596/0001-38</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">632671</Data></Cell>
+			<Cell><Data ss:Type="String">6000003 - PRONTO AR PULMOCLINICA CLINICA MEDICA LTDA - 80.978.596/0001-38</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91016</Data></Cell>
+			<Cell><Data ss:Type="String">6000003 - PRONTO AR PULMOCLINICA CLINICA MEDICA LTDA - 80978596000138</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">152782</Data></Cell>
+			<Cell><Data ss:Type="String">6000003 - PRONTO AR PULMOCLINICA CLINICA MEDICA LTDA - 80978596000138</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">153738</Data></Cell>
+			<Cell><Data ss:Type="String">6000004 - CLINICA MEDICA PLENA LTDA - 04938135000153</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636602</Data></Cell>
+			<Cell><Data ss:Type="String">50051018 - CLINICA FISIO VIDA LTDA - 27.883.631/0001-52</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455094</Data></Cell>
+			<Cell><Data ss:Type="String">6000005 - CLINICA OTORRINOLARINGOLOGICA OTOFACIAL LTDA - 05.532.631/0001-75</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85314</Data></Cell>
+			<Cell><Data ss:Type="String">6000005 - CLINICA OTORRINOLARINGOLOGICA OTOFACIAL LTDA - 05532631000175</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">162051</Data></Cell>
+			<Cell><Data ss:Type="String">6000005 - CLINICA OTORRINOLARINGOLOGICA OTOFACIAL LTDA - 05532631000175</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455095</Data></Cell>
+			<Cell><Data ss:Type="String">6000006 - PNEUMA MEDICINA RESPIRATORIA LTDA                                      - 06.308.257/0001-91</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">89696</Data></Cell>
+			<Cell><Data ss:Type="String">6000006 - PNEUMA MEDICINA RESPIRATORIA LTDA - 06308257000191</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156908</Data></Cell>
+			<Cell><Data ss:Type="String">6000006 - PNEUMA MEDICINA RESPIRATORIA LTDA - 06308257000191</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">200884</Data></Cell>
+			<Cell><Data ss:Type="String">6000007 - CARDIOSERV-CLIN CARD E SERV MEDICOS LTDA                               - 09.138.968/0001-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344656</Data></Cell>
+			<Cell><Data ss:Type="String">6000007 - CARDIOSERV-CLIN CARD E SERV MEDICOS LTDA                               - 09.138.968/0001-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">212847</Data></Cell>
+			<Cell><Data ss:Type="String">50050977 - SERFISIO SERVICOS DE FISIOTERAPIA LTDA - 09.026.088/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">646935</Data></Cell>
+			<Cell><Data ss:Type="String">50050867 - SAUDE FISIOTERAPIA E ATENDIMENTO LTDA - 05.423.573/0001-41</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">236367</Data></Cell>
+			<Cell><Data ss:Type="String">50050869 - FISION CLINICA DE FISIOTERAPIA LTDA - 05.904.916/0001-90</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283369</Data></Cell>
+			<Cell><Data ss:Type="String">50050869 - FISION CLINICA DE FISIOTERAPIA LTDA - 05.904.916/0001-90</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283370</Data></Cell>
+			<Cell><Data ss:Type="String">50050869 - FISION CLINICA DE FISIOTERAPIA LTDA - 05.904.916/0001-90</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636596</Data></Cell>
+			<Cell><Data ss:Type="String">50050869 - FISION CLINICA DE FISIOTERAPIA LTDA - 05.904.916/0001-90</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">178877</Data></Cell>
+			<Cell><Data ss:Type="String">50050913 - OSTEOFISIO CENTRO REABILITACAO FISIOTERAPIA - 07.591.800/0001-73</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192227</Data></Cell>
+			<Cell><Data ss:Type="String">50050913 - OSTEOFISIO CENTRO REABILITACAO FISIOTERAPIA - 07.591.800/0001-73</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">659037</Data></Cell>
+			<Cell><Data ss:Type="String">50050913 - OSTEOFISIO CENTRO REABILITACAO FISIOTERAPIA - 07.591.800/0001-73</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455096</Data></Cell>
+			<Cell><Data ss:Type="String">6000007 - CARDIOSERV-CLIN CARD E SERV MEDICOS LTDA                               - 09.138.968/0001-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">212848</Data></Cell>
+			<Cell><Data ss:Type="String">50050977 - SERFISIO SERVICOS DE FISIOTERAPIA LTDA - 09.026.088/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636595</Data></Cell>
+			<Cell><Data ss:Type="String">50050977 - SERFISIO SERVICOS DE FISIOTERAPIA LTDA - 09.026.088/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192225</Data></Cell>
+			<Cell><Data ss:Type="String">50051016 - ANGELA HILSENDEGER PEREIRA MILIOLI ME - 10.335.668/0001-43</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283366</Data></Cell>
+			<Cell><Data ss:Type="String">50051016 - ANGELA HILSENDEGER PEREIRA MILIOLI ME - 10.335.668/0001-43</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636603</Data></Cell>
+			<Cell><Data ss:Type="String">50051016 - ANGELA HILSENDEGER PEREIRA MILIOLI ME - 10.335.668/0001-43</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176338</Data></Cell>
+			<Cell><Data ss:Type="String">50051018 - CLINICA FISIO VIDA LTDA - 27.883.631/0001-52</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192221</Data></Cell>
+			<Cell><Data ss:Type="String">50051018 - CLINICA FISIO VIDA LTDA - 27.883.631/0001-52</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344664</Data></Cell>
+			<Cell><Data ss:Type="String">6000018 - SAMDESC SERV DE ANESTES E MANEJO DA DOR DO EXT SUL CATAR LTDA-EPP - 19.021.970/0001-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">205441</Data></Cell>
+			<Cell><Data ss:Type="String">6000016 - LEONARDO MAGALHAES YOUSSEF EIRELI - ME - 23.527.280/0001-96</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283341</Data></Cell>
+			<Cell><Data ss:Type="String">6000016 - LEONARDO MAGALHAES YOUSSEF EIRELI - ME - 23.527.280/0001-96</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455087</Data></Cell>
+			<Cell><Data ss:Type="String">6000016 - LEONARDO MAGALHAES YOUSSEF EIRELI - ME - 23.527.280/0001-96</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91024</Data></Cell>
+			<Cell><Data ss:Type="String">6000016 - LEONARDO MAGALHAES YOUSSEF EIRELI - ME - 23527280000196</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173705</Data></Cell>
+			<Cell><Data ss:Type="String">6000017 - CLINICA MIRIAN FERNANDES LTDA - ME - 21.391.066/0001-20</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176470</Data></Cell>
+			<Cell><Data ss:Type="String">6000017 - CLINICA MIRIAN FERNANDES LTDA - ME - 21.391.066/0001-20</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">153736</Data></Cell>
+			<Cell><Data ss:Type="String">6000017 - CLINICA MIRIAN FERNANDES LTDA - ME - 21391066000120</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">159965</Data></Cell>
+			<Cell><Data ss:Type="String">6000017 - CLINICA MIRIAN FERNANDES LTDA - ME - 21391066000120</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156827</Data></Cell>
+			<Cell><Data ss:Type="String">6000014 - AUTO GESTAO CONSULTORIO DE PSICOLOGIA LTDA - EPP - 15737603000148</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344667</Data></Cell>
+			<Cell><Data ss:Type="String">6000023 - SERVICOS MEDICOS DE ANESTESIA CRICIUMA LTDA EPP - 12.750.939/0001-52</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344665</Data></Cell>
+			<Cell><Data ss:Type="String">6000024 - MILETO CLINICA MEDICA LTDA - 07.703.830/0001-24</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176381</Data></Cell>
+			<Cell><Data ss:Type="String">6000038 - CLINICA DE PSICOLOGIA INTEGRAL SS - 14.949.681/0001-43</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192249</Data></Cell>
+			<Cell><Data ss:Type="String">6000038 - CLINICA DE PSICOLOGIA INTEGRAL SS - 14.949.681/0001-43</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">279772</Data></Cell>
+			<Cell><Data ss:Type="String">6000045 - PED-SUL PEDIATRIA DO SUL S/S LTDA - ME - 11.693.260/0001-06</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176382</Data></Cell>
+			<Cell><Data ss:Type="String">6000047 - CLINICA DE PSICOLOGIA TATIANA DA LUZ EIRELI - ME - 25.181.127/0001-85</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192241</Data></Cell>
+			<Cell><Data ss:Type="String">6000047 - CLINICA DE PSICOLOGIA TATIANA DA LUZ EIRELI - ME - 25.181.127/0001-85</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344642</Data></Cell>
+			<Cell><Data ss:Type="String">6000059 - ENDOSUL CLINICA DE GASTROENTEROLOGIA LTDA - ME - 22.020.946/0001-52</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455086</Data></Cell>
+			<Cell><Data ss:Type="String">6000011 - PROCTOMAIS, ALIVIUM, GASTROMAIS, CLINICA MEDICA S/S LTDA - 14.905.686/0001-74</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91042</Data></Cell>
+			<Cell><Data ss:Type="String">6000007 - CARDIOSERV-CLIN CARD E SERV MEDICOS LTDA - 09138968000153</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344655</Data></Cell>
+			<Cell><Data ss:Type="String">6000010 - CARDIODAY CLINICA CARDIOLOGICA LTDA ME - 11.674.548/0001-33</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455088</Data></Cell>
+			<Cell><Data ss:Type="String">6000010 - CARDIODAY CLINICA CARDIOLOGICA LTDA ME - 11.674.548/0001-33</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91052</Data></Cell>
+			<Cell><Data ss:Type="String">6000010 - CARDIODAY CLINICA CARDIOLOGICA LTDA ME - 11674548000133</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">153603</Data></Cell>
+			<Cell><Data ss:Type="String">6000010 - CARDIODAY CLINICA CARDIOLOGICA LTDA ME - 11674548000133</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">217734</Data></Cell>
+			<Cell><Data ss:Type="String">6000011 - PROCTOMAIS, ALIVIUM, GASTROMAIS, CLINICA MEDICA S/S LTDA - 14.905.686/0001-74</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283342</Data></Cell>
+			<Cell><Data ss:Type="String">6000011 - PROCTOMAIS, ALIVIUM, GASTROMAIS, CLINICA MEDICA S/S LTDA - 14.905.686/0001-74</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344644</Data></Cell>
+			<Cell><Data ss:Type="String">6000011 - PROCTOMAIS, ALIVIUM, GASTROMAIS, CLINICA MEDICA S/S LTDA - 14.905.686/0001-74</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479502</Data></Cell>
+			<Cell><Data ss:Type="String">6000137 - DR LUIZ ANTONIO DE LUCCA LTDA - 27.336.727/0001-09</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85308</Data></Cell>
+			<Cell><Data ss:Type="String">6000011 - PROCTOMAIS, ALIVIUM, GASTROMAIS, CLINICA MEDICA S/S LTDA - 14905686000174</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157735</Data></Cell>
+			<Cell><Data ss:Type="String">6000011 - PROCTOMAIS, ALIVIUM, GASTROMAIS, CLINICA MEDICA S/S LTDA - 14905686000174</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173700</Data></Cell>
+			<Cell><Data ss:Type="String">6000013 - CLINICA SER SAUDE LTDA - ME - 18.245.843/0001-13</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176379</Data></Cell>
+			<Cell><Data ss:Type="String">6000013 - CLINICA SER SAUDE LTDA - ME - 18.245.843/0001-13</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">162049</Data></Cell>
+			<Cell><Data ss:Type="String">6000013 - CLINICA SER SAUDE LTDA - ME - 18245843000113</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173696</Data></Cell>
+			<Cell><Data ss:Type="String">6000014 - AUTO GESTAO CONSULTORIO DE PSICOLOGIA LTDA - EPP - 15.737.603/0001-48</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176380</Data></Cell>
+			<Cell><Data ss:Type="String">6000014 - AUTO GESTAO CONSULTORIO DE PSICOLOGIA LTDA - EPP - 15.737.603/0001-48</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192270</Data></Cell>
+			<Cell><Data ss:Type="String">96000003 - DILANI MOTA - 651.598.889-34</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283346</Data></Cell>
+			<Cell><Data ss:Type="String">95000048 - CRISTIANE D ACAMPORA GUAZZI - 905.874.727-15</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">205435</Data></Cell>
+			<Cell><Data ss:Type="String">95000048 - CRISTIANE D'ACAMPORA GUAZZI - 905.874.727-15</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">205436</Data></Cell>
+			<Cell><Data ss:Type="String">95000048 - CRISTIANE D'ACAMPORA GUAZZI - 905.874.727-15</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278508</Data></Cell>
+			<Cell><Data ss:Type="String">95000050 - INDIANARA DE FREITAS - 093.366.239-40</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176341</Data></Cell>
+			<Cell><Data ss:Type="String">96000001 - MARCIANA PAULINO - 862.669.269-20</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192264</Data></Cell>
+			<Cell><Data ss:Type="String">96000001 - MARCIANA PAULINO - 862.669.269-20</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283350</Data></Cell>
+			<Cell><Data ss:Type="String">96000001 - MARCIANA PAULINO - 862.669.269-20</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176346</Data></Cell>
+			<Cell><Data ss:Type="String">96000003 - DILANI MOTA - 651.598.889-34</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283362</Data></Cell>
+			<Cell><Data ss:Type="String">95000044 - KAROLINE FRANCA ORBEN - 067.347.629-47</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283349</Data></Cell>
+			<Cell><Data ss:Type="String">96000003 - DILANI MOTA - 651.598.889-34</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192260</Data></Cell>
+			<Cell><Data ss:Type="String">96000005 - MARIA TERESA CORSO - 077.746.379-23</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">162043</Data></Cell>
+			<Cell><Data ss:Type="String">96000005 - MARIA TERESA CORSO - 07774637923</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283363</Data></Cell>
+			<Cell><Data ss:Type="String">96000006 - LEILA ROSSO DUZIONI - 063.415.799-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479375</Data></Cell>
+			<Cell><Data ss:Type="String">96000006 - LEILA ROSSO DUZIONI - 063.415.799-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">668401</Data></Cell>
+			<Cell><Data ss:Type="String">96000006 - LEILA ROSSO DUZIONI - 063.415.799-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173707</Data></Cell>
+			<Cell><Data ss:Type="String">96000007 - DEBORA CRISTINA TEIXEIRA - 068.418.289-09</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">204699</Data></Cell>
+			<Cell><Data ss:Type="String">96000007 - DEBORA CRISTINA TEIXEIRA - 068.418.289-09</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283352</Data></Cell>
+			<Cell><Data ss:Type="String">95000037 - MARIA AUGUSTA BERNARDINI DOS SANTOS - 052.784.549-38</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283364</Data></Cell>
+			<Cell><Data ss:Type="String">95000028 - SCHEILA BITTENCOURT DE OLIVEIRA BORTOLUZZI - 034.939.909-36</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479365</Data></Cell>
+			<Cell><Data ss:Type="String">95000028 - SCHEILA BITTENCOURT DE OLIVEIRA BORTOLUZZI - 034.939.909-36</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176375</Data></Cell>
+			<Cell><Data ss:Type="String">95000029 - KARINE FRESSON SEBASTIAO - 050.598.909-37</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283355</Data></Cell>
+			<Cell><Data ss:Type="String">95000029 - KARINE FRESSON SEBASTIAO - 050.598.909-37</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479353</Data></Cell>
+			<Cell><Data ss:Type="String">95000029 - KARINE FRESSON SEBASTIAO - 050.598.909-37</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176374</Data></Cell>
+			<Cell><Data ss:Type="String">95000030 - CARMEN BERENICE ROSWAG MADEIRA - 582.350.439-04</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283353</Data></Cell>
+			<Cell><Data ss:Type="String">95000031 - FERNANDA BRUGNOLI - 023.043.229-80</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479360</Data></Cell>
+			<Cell><Data ss:Type="String">95000031 - FERNANDA BRUGNOLI - 023.043.229-80</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283361</Data></Cell>
+			<Cell><Data ss:Type="String">96000007 - DEBORA CRISTINA TEIXEIRA - 068.418.289-09</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176342</Data></Cell>
+			<Cell><Data ss:Type="String">95000038 - EDNA MARIA DALEFFE FREITAS - 560.243.479-87</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283351</Data></Cell>
+			<Cell><Data ss:Type="String">95000038 - EDNA MARIA DALEFFE FREITAS - 560.243.479-87</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479348</Data></Cell>
+			<Cell><Data ss:Type="String">95000038 - EDNA MARIA DALEFFE FREITAS - 560.243.479-87</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173701</Data></Cell>
+			<Cell><Data ss:Type="String">95000043 - MARA RUBYA CORNELIO - 257.997.338-94</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192247</Data></Cell>
+			<Cell><Data ss:Type="String">95000043 - MARA RUBYA CORNELIO - 257.997.338-94</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278507</Data></Cell>
+			<Cell><Data ss:Type="String">95000043 - MARA RUBYA CORNELIO KAUNE - 257.997.338-94</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176228</Data></Cell>
+			<Cell><Data ss:Type="String">95000044 - KAROLINE FRANCA ORBEN - 067.347.629-47</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">72329</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66582</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">68255</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">68275</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">68353</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">69513</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">69519</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66462</Data></Cell>
+			<Cell><Data ss:Type="String">1000828 - JULIO MANFREDINI - 01856480968</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">71228</Data></Cell>
+			<Cell><Data ss:Type="String">1000828 - JULIO MANFREDINI - 01856480968</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66580</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">72330</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">73338</Data></Cell>
+			<Cell><Data ss:Type="String">10000011 - HEMATO CLINICA LTDA - 79948832000194</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">71213</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">77979</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">71153</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479497</Data></Cell>
+			<Cell><Data ss:Type="String">10000012 - ONKOLOGICA CLINICA MEDICA LTDA - 15.246.302/0001-11</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455066</Data></Cell>
+			<Cell><Data ss:Type="String">10000012 - ONKOLOGICA CLINICA MEDICA LTDA - 15.246.302/0001-11</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">236369</Data></Cell>
+			<Cell><Data ss:Type="String">10000012 - ONKOLOGICA CLINICA MEDICA LTDA - 15.246.302/0001-11</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">69278</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283348</Data></Cell>
+			<Cell><Data ss:Type="String">96000009 - ANDREIA FERRADO BARBOSA LIMA - 013.101.991-08</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479366</Data></Cell>
+			<Cell><Data ss:Type="String">96000009 - ANDREIA FERRADO BARBOSA LIMA - 013.101.991-08</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">676511</Data></Cell>
+			<Cell><Data ss:Type="String">96000010 - NEISE CANDIDO EMIDIO PIRES - 951.407.009-72</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">218143</Data></Cell>
+			<Cell><Data ss:Type="String">Lista de presença treinamento SGU-Card</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">73295</Data></Cell>
+			<Cell><Data ss:Type="String">teste</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">26857</Data></Cell>
+			<Cell><Data ss:Type="String">Declaração</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">26864</Data></Cell>
+			<Cell><Data ss:Type="String">Declaração</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">52495</Data></Cell>
+			<Cell><Data ss:Type="String">teste</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283357</Data></Cell>
+			<Cell><Data ss:Type="String">95000026 - ISABELLE MORITZ DE MIRANDA - 052.203.939-10</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">69322</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">69233</Data></Cell>
+			<Cell><Data ss:Type="String">1000828 - JULIO MANFREDINI - 01856480968</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66514</Data></Cell>
+			<Cell><Data ss:Type="String">10000012 - ONKOLOGICA CLINICA MEDICA LTDA - 15246302000111</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">65955</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66060</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66220</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66446</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91035</Data></Cell>
+			<Cell><Data ss:Type="String">60050997 - CENTROCARDIO ARARANGUA LTDA - ME - 10243547000171</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344639</Data></Cell>
+			<Cell><Data ss:Type="String">60050780 - CLINICA MEDICA DR WALDIERE MACHADO GONCALVES LTDA - 02.858.781/0001-85</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455061</Data></Cell>
+			<Cell><Data ss:Type="String">60050780 - CLINICA MEDICA DR WALDIERE MACHADO GONCALVES LTDA - 02.858.781/0001-85</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91014</Data></Cell>
+			<Cell><Data ss:Type="String">60050780 - CLINICA MEDICA DR WALDIERE MACHADO GONCALVES LTDA - 02858781000185</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">153621</Data></Cell>
+			<Cell><Data ss:Type="String">60050780 - CLINICA MEDICA DR WALDIERE MACHADO GONCALVES LTDA - 02858781000185</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">604996</Data></Cell>
+			<Cell><Data ss:Type="String">60050781 - CLINIGASTRO CLINICA MEDICA LTDA - 80.084.619/0002-41</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283334</Data></Cell>
+			<Cell><Data ss:Type="String">60050997 - CENTROCARDIO ARARANGUA LTDA - ME - 10.243.547/0001-71</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455052</Data></Cell>
+			<Cell><Data ss:Type="String">60050997 - CENTROCARDIO ARARANGUA LTDA - ME - 10.243.547/0001-71</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">555657</Data></Cell>
+			<Cell><Data ss:Type="String">60050997 - CENTROCARDIO ARARANGUA LTDA - ME - 10.243.547/0001-71</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283336</Data></Cell>
+			<Cell><Data ss:Type="String">60050780 - CLINICA MEDICA DR WALDIERE MACHADO GONCALVES LTDA - 02.858.781/0001-85</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">153740</Data></Cell>
+			<Cell><Data ss:Type="String">60050997 - CENTROCARDIO ARARANGUA LTDA - ME - 10243547000171</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91030</Data></Cell>
+			<Cell><Data ss:Type="String">8000001 - CLINICA ORO FACIAL CRICIUMA LTDA - 00711530000148</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173687</Data></Cell>
+			<Cell><Data ss:Type="String">8000001 - CLINICA ORO FACIAL CRICIUMA LTDA - 00711530000148</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344652</Data></Cell>
+			<Cell><Data ss:Type="String">8000002 - CTC CENTRO DE TRATAMENTO DE CALCULOS RENAIS LTDA - 00.750.073/0001-09</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455076</Data></Cell>
+			<Cell><Data ss:Type="String">8000002 - CTC CENTRO DE TRATAMENTO DE CALCULOS RENAIS LTDA - 00.750.073/0001-09</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91027</Data></Cell>
+			<Cell><Data ss:Type="String">8000002 - CTC-CENTRO TRAT.DE CALCULOS RENAIS LTDA - 00750073000109</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156903</Data></Cell>
+			<Cell><Data ss:Type="String">8000002 - CTC-CENTRO TRAT.DE CALCULOS RENAIS LTDA - 00750073000109</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91034</Data></Cell>
+			<Cell><Data ss:Type="String">8000003 - CLINICA ANTONINI LTDA ME - 22374368000152</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">651215</Data></Cell>
+			<Cell><Data ss:Type="String">6000145 - OZ SERVICOS MEDICOS E PEDIATRIA LTDA - 25.274.690/0001-06</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479313</Data></Cell>
+			<Cell><Data ss:Type="String">6000138 - BB PELLEGRIN SERVICOS MEDICOS LTDA - 37.258.694/0001-71</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479506</Data></Cell>
+			<Cell><Data ss:Type="String">6000139 - MBL SERVICOS MEDICOS LTDA - 29.923.549/0001-30</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522048</Data></Cell>
+			<Cell><Data ss:Type="String">6000140 - M. MAGALHAES GINECOLOGIA E OBSTETRICIA LTDA - 49.328.112/0001-65</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522046</Data></Cell>
+			<Cell><Data ss:Type="String">6000141 - CLINICA MEDICA ALEXMANGILI LTDA - 55.490.165/0001-80</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">583878</Data></Cell>
+			<Cell><Data ss:Type="String">6000142 - NEUROMENTAL LTDA - 54.394.751/0001-69</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">649533</Data></Cell>
+			<Cell><Data ss:Type="String">6000142 - NEUROMENTAL LTDA - 54.394.751/0001-69</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">615554</Data></Cell>
+			<Cell><Data ss:Type="String">6000143 - CENTRO DE PSICOMOTRICIDADE LTDA - 50.323.334/0001-74</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">651216</Data></Cell>
+			<Cell><Data ss:Type="String">6000144 - SNCNEURO2 NEUROLOGIA E NEUROCIRURGIA LTDA - 52.092.093/0001-25</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">152781</Data></Cell>
+			<Cell><Data ss:Type="String">8000003 - CLINICA ANTONINI LTDA ME - 22374368000152</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">672251</Data></Cell>
+			<Cell><Data ss:Type="String">6000147 - CENTRO DE PRATICAS INTEGRATIVAS E COMPLEMENTARES EM SAUDE HUMANA - 34.132.384/0001-18</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">673519</Data></Cell>
+			<Cell><Data ss:Type="String">6000147 - CENTRO DE PRATICAS INTEGRATIVAS E COMPLEMENTARES EM SAUDE HUMANA - 34.132.384/0001-18</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283335</Data></Cell>
+			<Cell><Data ss:Type="String">60050774 - RICARDO JOAO MATOS E CIA LTDA - 04.880.516/0001-29</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344662</Data></Cell>
+			<Cell><Data ss:Type="String">60050774 - RICARDO JOAO MATOS E CIA LTDA - 04.880.516/0001-29</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455069</Data></Cell>
+			<Cell><Data ss:Type="String">60050774 - RICARDO JOAO MATOS E CIA LTDA - 04.880.516/0001-29</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85275</Data></Cell>
+			<Cell><Data ss:Type="String">60050774 - RICARDO JOAO MATOS E CIA LTDA - 04880516000129</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">153009</Data></Cell>
+			<Cell><Data ss:Type="String">60050774 - RICARDO JOAO MATOS E CIA LTDA - 04880516000129</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192186</Data></Cell>
+			<Cell><Data ss:Type="String">95000008 - FATIMA SALVAN ROSENSTENGEL - 506.919.709-63</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192213</Data></Cell>
+			<Cell><Data ss:Type="String">9000013 - CLINICA OCULOLASER LTDA - ME - 22.176.236/0001-16</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344650</Data></Cell>
+			<Cell><Data ss:Type="String">9000013 - CLINICA OCULOLASER LTDA - ME - 22.176.236/0001-16</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455070</Data></Cell>
+			<Cell><Data ss:Type="String">9000013 - CLINICA OCULOLASER LTDA - ME - 22.176.236/0001-16</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91031</Data></Cell>
+			<Cell><Data ss:Type="String">9000013 - CLINICA OCULOLASER LTDA - ME - 22176236000116</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176378</Data></Cell>
+			<Cell><Data ss:Type="String">95000002 - DANIELLE DA SILVA OLIVEIRA - 005.099.969-90</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192189</Data></Cell>
+			<Cell><Data ss:Type="String">95000002 - DANIELLE DA SILVA OLIVEIRA - 005.099.969-90</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283359</Data></Cell>
+			<Cell><Data ss:Type="String">95000002 - DANIELLE DA SILVA OLIVEIRA - 005.099.969-90</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176377</Data></Cell>
+			<Cell><Data ss:Type="String">95000008 - FATIMA SALVAN ROSENSTENGEL - 506.919.709-63</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">89697</Data></Cell>
+			<Cell><Data ss:Type="String">9000012 - VISIOCRI CRICIUMA EXAMES EM OFTALMOLOGIA LTDA ME - 17430660000105</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283360</Data></Cell>
+			<Cell><Data ss:Type="String">95000008 - FATIMA SALVAN ROSENSTENGEL - 506.919.709-63</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173703</Data></Cell>
+			<Cell><Data ss:Type="String">95000012 - DEBORAH REGINA DE OLIVEIRA LACOMBE - 415.988.819-49</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192257</Data></Cell>
+			<Cell><Data ss:Type="String">95000012 - DEBORAH REGINA DE OLIVEIRA LACOMBE - 415.988.819-49</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283365</Data></Cell>
+			<Cell><Data ss:Type="String">95000012 - DEBORAH REGINA DE OLIVEIRA LACOMBE - 415.988.819-49</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176222</Data></Cell>
+			<Cell><Data ss:Type="String">95000016 - RAQUEL DE OLIVEIRA - 650.697.819-87</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192250</Data></Cell>
+			<Cell><Data ss:Type="String">95000016 - RAQUEL DE OLIVEIRA - 650.697.819-87</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176376</Data></Cell>
+			<Cell><Data ss:Type="String">95000026 - ISABELLE MORITZ DE MIRANDA - 052.203.939-10</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192261</Data></Cell>
+			<Cell><Data ss:Type="String">95000026 - ISABELLE MORITZ DE MIRANDA - 052.203.939-10</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156906</Data></Cell>
+			<Cell><Data ss:Type="String">8000138 - ORTO TRAUMA CLINICA DE FRATURAS LTDA - 82974593000151</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192215</Data></Cell>
+			<Cell><Data ss:Type="String">8000004 - FT-CENTRO DE ESTETICA INTEGRADA EIRELI - 21.114.165/0001-64</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">244349</Data></Cell>
+			<Cell><Data ss:Type="String">8000004 - FT-CENTRO DE ESTETICA INTEGRADA EIRELI - 21.114.165/0001-64</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192212</Data></Cell>
+			<Cell><Data ss:Type="String">8000005 - SAMIR MACHADO VERAN - 37.833.672/0001-98</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85835</Data></Cell>
+			<Cell><Data ss:Type="String">8000005 - SAMIR MACHADO VERAN - 37833672000198</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91021</Data></Cell>
+			<Cell><Data ss:Type="String">8000013 - NEFROCLINICA CRICIUMA LTDA - 75892299000135</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156905</Data></Cell>
+			<Cell><Data ss:Type="String">8000013 - NEFROCLINICA CRICIUMA LTDA - 75892299000135</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344653</Data></Cell>
+			<Cell><Data ss:Type="String">8000138 - ORTO TRAUMA CLINICA DE FRATURAS LTDA - 82.974.593/0001-51</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91019</Data></Cell>
+			<Cell><Data ss:Type="String">8000138 - ORTO TRAUMA CLINICA DE FRATURAS LTDA - 82974593000151</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344654</Data></Cell>
+			<Cell><Data ss:Type="String">6000064 - ANIMA CLINICA MEDICA S/S LTDA - ME - 25.194.996/0001-44</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">279769</Data></Cell>
+			<Cell><Data ss:Type="String">9000010 - CLINICA DE OLHOS PEREIRA LTDA - 00.583.332/0001-46</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283368</Data></Cell>
+			<Cell><Data ss:Type="String">9000010 - CLINICA DE OLHOS PEREIRA LTDA - 00.583.332/0001-46</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455075</Data></Cell>
+			<Cell><Data ss:Type="String">9000010 - CLINICA DE OLHOS PEREIRA LTDA - 00.583.332/0001-46</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">153737</Data></Cell>
+			<Cell><Data ss:Type="String">9000010 - CLINICA DE OLHOS PEREIRA LTDA - 00583332000146</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">236370</Data></Cell>
+			<Cell><Data ss:Type="String">9000012 - VISIOCRI CRICIUMA EXAMES EM OFTALMOLOGIA LTDA ME - 17.430.660/0001-05</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455074</Data></Cell>
+			<Cell><Data ss:Type="String">9000012 - VISIOCRI CRICIUMA EXAMES EM OFTALMOLOGIA LTDA ME - 17.430.660/0001-05</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479376</Data></Cell>
+			<Cell><Data ss:Type="String">9000012 - VISIOCRI CRICIUMA EXAMES EM OFTALMOLOGIA LTDA ME - 17.430.660/0001-05</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">199574</Data></Cell>
+			<Cell><Data ss:Type="String">20020916 - LABORATORIO DE ANALISES CLINICAS JAQUELINE LTDA - 85.387.181/0001-03</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192268</Data></Cell>
+			<Cell><Data ss:Type="String">2000111 - LABORATORIO DAL PONT LTDA - 04.956.464/0001-27</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479501</Data></Cell>
+			<Cell><Data ss:Type="String">2000111 - LABORATORIO DAL PONT LTDA - 04.956.464/0001-27</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157731</Data></Cell>
+			<Cell><Data ss:Type="String">2000112 - LAB DE ANALISES CLINICAS LEHMKUHL LTDA - 07231433000105</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">204700</Data></Cell>
+			<Cell><Data ss:Type="String">20010393 - LABORATORIO REGIONAL DE ANALISES CLINICAS SC LTDA - 80.991.458/0001-99</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283318</Data></Cell>
+			<Cell><Data ss:Type="String">20010690 - LABORATORIO DE ANALISES CLINICAS E CITOLOGIA SAO JOAO LTDA - 04.746.998/0001-29</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479344</Data></Cell>
+			<Cell><Data ss:Type="String">20010690 - LABORATORIO DE ANALISES CLINICAS E CITOLOGIA SAO JOAO LTDA - 04.746.998/0001-29</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192272</Data></Cell>
+			<Cell><Data ss:Type="String">20020911 - MARIA  MADALENA  BIZ - ME - 83.245.761/0001-30</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192273</Data></Cell>
+			<Cell><Data ss:Type="String">20020915 - LABORATORIO ZANATTA LTDA - 01.849.510/0001-09</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157737</Data></Cell>
+			<Cell><Data ss:Type="String">2000110 - LABORATORIO DE ANALISES CLINICAS SIMON LTDA - 06910377000164</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">279758</Data></Cell>
+			<Cell><Data ss:Type="String">20020916 - LABORATORIO DE ANALISES CLINICAS JAQUELINE LTDA - 85.387.181/0001-03</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192275</Data></Cell>
+			<Cell><Data ss:Type="String">20020917 - BIOANALISE LABORATORIO CLINICO LTDA - 04.763.107/0001-42</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">279767</Data></Cell>
+			<Cell><Data ss:Type="String">20020917 - BIOANALISE LABORATORIO CLINICO LTDA - 04.763.107/0001-42</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">646924</Data></Cell>
+			<Cell><Data ss:Type="String">20020917 - BIOANALISE LABORATORIO CLINICO LTDA - 04.763.107/0001-42</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">646925</Data></Cell>
+			<Cell><Data ss:Type="String">20020917 - BIOANALISE LABORATORIO CLINICO LTDA - 04.763.107/0001-42</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192277</Data></Cell>
+			<Cell><Data ss:Type="String">20020918 - EVERTON HAMILTON KRAS TOURNIER - 77.882.975/0001-15</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192278</Data></Cell>
+			<Cell><Data ss:Type="String">20020920 - LABORATORIO RECH LTDA - ME - 03.746.465/0001-84</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278462</Data></Cell>
+			<Cell><Data ss:Type="String">20020920 - LABORATORIO RECH LTDA - ME - 03.746.465/0001-84</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">279750</Data></Cell>
+			<Cell><Data ss:Type="String">2000093 - LABORATORIO DE ANALISES CLINICAS URUSSANGA LTDA - 75.884.411/0001-96</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278481</Data></Cell>
+			<Cell><Data ss:Type="String">2000083 - LABORATORIO MONTEIRO LTDA - 75.896.282/0001-56</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479355</Data></Cell>
+			<Cell><Data ss:Type="String">2000084 - LABORATORIO LAVOISIER PASTEUR LTDA - 83.248.849/0001-06</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283327</Data></Cell>
+			<Cell><Data ss:Type="String">2000088 - LABORATORIO SANTA RITA LTDA - 75.785.576/0001-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156816</Data></Cell>
+			<Cell><Data ss:Type="String">2000088 - LABORATORIO SANTA RITA LTDA - 75785576000100</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157734</Data></Cell>
+			<Cell><Data ss:Type="String">2000089 - LABORATORIO ICARA LTDA - 83260489000168</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283324</Data></Cell>
+			<Cell><Data ss:Type="String">2000090 - LABORATORIO PREVE LTDA - 03.288.464/0001-33</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157739</Data></Cell>
+			<Cell><Data ss:Type="String">2000090 - LABORATORIO PREVE LTDA - 03288464000133</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">162047</Data></Cell>
+			<Cell><Data ss:Type="String">2000091 - LABORATORIO ANALISES CLINICAS MBB BERTI LTDA - 75343970000199</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">336286</Data></Cell>
+			<Cell><Data ss:Type="String">20020920 - LABORATORIO RECH LTDA - ME - 03.746.465/0001-84</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157740</Data></Cell>
+			<Cell><Data ss:Type="String">2000093 - LABORATORIO DE ANALISES CLINICAS URUSSANGA LTDA - 75884411000196</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156379</Data></Cell>
+			<Cell><Data ss:Type="String">2000097 - LABORATORIO DAGOSTIN LTDA - 85323475000171</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">199400</Data></Cell>
+			<Cell><Data ss:Type="String">2000099 - LABORATORIO ANALISE CLINICA SANTA INES LTDA ME - 01.270.095/0001-26</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344645</Data></Cell>
+			<Cell><Data ss:Type="String">2000099 - LABORATORIO ANALISE CLINICA SANTA INES LTDA ME - 01.270.095/0001-26</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157743</Data></Cell>
+			<Cell><Data ss:Type="String">2000100 - LABORATORIO BIO PADRAO LTDA - 01397670000156</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">212851</Data></Cell>
+			<Cell><Data ss:Type="String">2000107 - LABORATORIO CESA - ANALISES CLINICAS LTDA - 05.677.419/0001-04</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">199573</Data></Cell>
+			<Cell><Data ss:Type="String">2000109 - DD LABORATORIO BIOQUIMICO LTDA - 06.082.808/0001-41</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192284</Data></Cell>
+			<Cell><Data ss:Type="String">20020982 - VITA ANALISE LABORATORIO - 09.636.738/0001-14</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192283</Data></Cell>
+			<Cell><Data ss:Type="String">20020958 - TULIO MARAGNO CECONI - ME - 07.849.046/0001-29</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283325</Data></Cell>
+			<Cell><Data ss:Type="String">20020958 - TULIO MARAGNO CECONI - ME - 07.849.046/0001-29</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">336292</Data></Cell>
+			<Cell><Data ss:Type="String">20020958 - TULIO MARAGNO CECONI - ME - 07.849.046/0001-29</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283321</Data></Cell>
+			<Cell><Data ss:Type="String">20020959 - LABORATORIO DAROS LTDA ME - 08.476.828/0001-22</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522501</Data></Cell>
+			<Cell><Data ss:Type="String">20020959 - LABORATORIO DAROS LTDA ME - 08.476.828/0001-22</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">279760</Data></Cell>
+			<Cell><Data ss:Type="String">20020960 - LABORATORIO BIOANALISES GAIVOTA LTDA - 08.262.548/0001-11</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">646923</Data></Cell>
+			<Cell><Data ss:Type="String">20020960 - LABORATORIO BIOANALISES GAIVOTA LTDA - 08.262.548/0001-11</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">279753</Data></Cell>
+			<Cell><Data ss:Type="String">20020961 - LABORATORIO VITALI LTDA - 09.542.753/0001-01</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278485</Data></Cell>
+			<Cell><Data ss:Type="String">20020955 - LABORATORIO J A MATOS LTDA - 07.559.619/0001-80</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283319</Data></Cell>
+			<Cell><Data ss:Type="String">20020982 - VITA ANALISE LABORATORIO - 09.636.738/0001-14</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">389198</Data></Cell>
+			<Cell><Data ss:Type="String">22000081 - PATOGENE MEDICINA DIAGNOSTICA LTDA - 83.474.395/0001-91</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">591385</Data></Cell>
+			<Cell><Data ss:Type="String">22000081 - PATOGENE MEDICINA DIAGNOSTICA LTDA - 83.474.395/0001-91</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">160236</Data></Cell>
+			<Cell><Data ss:Type="String">22000081 PATOGENE MEDICINA DIAGNOSTICA LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">161701</Data></Cell>
+			<Cell><Data ss:Type="String">22000096 LABORATORIO DE PATOLOGIA ROCHA LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">675315</Data></Cell>
+			<Cell><Data ss:Type="String">2425268 - DYONATHAN FERNANDE BONAMIGO - 085.393.709-56</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192216</Data></Cell>
+			<Cell><Data ss:Type="String">3000008 - URC - UNIDADE RADIOLOGICA CRICIUMA LTDA - 81.317.893/0001-03</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">217743</Data></Cell>
+			<Cell><Data ss:Type="String">3000008 - URC - UNIDADE RADIOLOGICA CRICIUMA LTDA - 81.317.893/0001-03</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">279754</Data></Cell>
+			<Cell><Data ss:Type="String">20020938 - LABORATORIO DE ANALISES RAFAEL LTDA - 05.478.054/0001-80</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">199578</Data></Cell>
+			<Cell><Data ss:Type="String">20020921 - LABORATORIO MARAGNO LTDA - 04.624.745/0001-82</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192285</Data></Cell>
+			<Cell><Data ss:Type="String">20020923 - LABORATORIO SK CORAL EIRELI - 95.777.090/0001-38</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">279759</Data></Cell>
+			<Cell><Data ss:Type="String">20020923 - LABORATORIO SK CORAL EIRELI - 95.777.090/0001-38</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">162042</Data></Cell>
+			<Cell><Data ss:Type="String">20020926 - LABORATORIO DE ANALISES CLINICAS SAO CAMILO LTDA - 03622317000158</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">199577</Data></Cell>
+			<Cell><Data ss:Type="String">20020927 - LABORATORIO RAFAELA DAROS MACHADO LTDA - ME - 01.386.372/0001-60</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">279768</Data></Cell>
+			<Cell><Data ss:Type="String">20020927 - LABORATORIO RAFAELA DAROS MACHADO LTDA - ME - 01.386.372/0001-60</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">646922</Data></Cell>
+			<Cell><Data ss:Type="String">20020927 - LABORATORIO RAFAELA DAROS MACHADO LTDA - ME - 01.386.372/0001-60</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">212850</Data></Cell>
+			<Cell><Data ss:Type="String">20020938 - LABORATORIO DE ANALISES RAFAEL LTDA - 05.478.054/0001-80</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">197542</Data></Cell>
+			<Cell><Data ss:Type="String">2000083 - LABORATORIO MONTEIRO LTDA - 75.896.282/0001-56</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192286</Data></Cell>
+			<Cell><Data ss:Type="String">20020939 - LAB VIDA LABORATORIO DE ANALISES CLINICAS LTDA - 03.006.201/0001-94</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283323</Data></Cell>
+			<Cell><Data ss:Type="String">20020942 - GIZELI CARDOSO DA SILVA E CIA LTDA - 04.088.632/0001-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479338</Data></Cell>
+			<Cell><Data ss:Type="String">20020942 - GIZELI CARDOSO DA SILVA E CIA LTDA - 04.088.632/0001-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192281</Data></Cell>
+			<Cell><Data ss:Type="String">20020950 - LABORATORIO JAQUELINE DAROS MACHADO LTDA - 04.664.472/0001-08</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">279757</Data></Cell>
+			<Cell><Data ss:Type="String">20020952 - LABORATORIO SKC LTDA - 06.002.502/0001-38</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479332</Data></Cell>
+			<Cell><Data ss:Type="String">20020952 - LABORATORIO SKC LTDA - 06.002.502/0001-38</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192282</Data></Cell>
+			<Cell><Data ss:Type="String">20020955 - LABORATORIO J A MATOS LTDA - 07.559.619/0001-80</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522088</Data></Cell>
+			<Cell><Data ss:Type="String">1020249 - CINTIA SILVESTRE - 062.507.669-95</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">80857</Data></Cell>
+			<Cell><Data ss:Type="String">1000546 - SERGIO LUIZ BORTOLUZZI - 00352470968</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">71954</Data></Cell>
+			<Cell><Data ss:Type="String">1000828 - JULIO MANFREDINI - 01856480968</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66503</Data></Cell>
+			<Cell><Data ss:Type="String">1000845 - ALBINO JOSE DE SOUZA FILHO - 00352020920</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">627678</Data></Cell>
+			<Cell><Data ss:Type="String">1014262 - SABRINA NAU DA SILVA PIAZZA - 046.997.359-59</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">389203</Data></Cell>
+			<Cell><Data ss:Type="String">1016762 - TATIANE WATANABE - 047.872.749-61</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479430</Data></Cell>
+			<Cell><Data ss:Type="String">1016833 - GABRIELA SERAFIM KELLER - 041.452.179-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522064</Data></Cell>
+			<Cell><Data ss:Type="String">1018498 - LUANA CREPALDI DE BRIDA - 066.484.249-66</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522077</Data></Cell>
+			<Cell><Data ss:Type="String">1020119  - JULIA DE LUCA MACCARINI - 073.970.309-98</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">82912</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522063</Data></Cell>
+			<Cell><Data ss:Type="String">1022330 - PAULO FERREIRA JUNIOR - 040.306.019-28</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">670937</Data></Cell>
+			<Cell><Data ss:Type="String">1023210 - BIANCA BEZ BATTI DE PELLEGRIN - 073.338.349-13</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">676510</Data></Cell>
+			<Cell><Data ss:Type="String">1023210 - BIANCA BEZ BATTI DE PELLEGRIN - 073.338.349-13</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522079</Data></Cell>
+			<Cell><Data ss:Type="String">1023784 - LUIZ ANTONIO DE LUCCA - 073.591.339-04</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522065</Data></Cell>
+			<Cell><Data ss:Type="String">1024424 - MARIANA MAGALHAES - 000.901.180-30</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522066</Data></Cell>
+			<Cell><Data ss:Type="String">1025288 - ANNE ROSSO BIANCHI - 088.466.969-64</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522068</Data></Cell>
+			<Cell><Data ss:Type="String">1025300 - ISABELA NOLLA CONCER - 086.920.369-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479427</Data></Cell>
+			<Cell><Data ss:Type="String">1026096 - IARA BERNARDY - 065.016.889-57</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">68424</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157730</Data></Cell>
+			<Cell><Data ss:Type="String">10000012 - ONKOLOGICA CLINICA MEDICA LTDA - 15246302000111</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66171</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66303</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66496</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66553</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66587</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">68414</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">68418</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522089</Data></Cell>
+			<Cell><Data ss:Type="String">1029358 - MATEUS DAMIANI MONTEIRO - 042.041.219-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">68833</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">77937</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">77953</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">78292</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">78414</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">78794</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">82860</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479395</Data></Cell>
+			<Cell><Data ss:Type="String">19021988 - BRUNELLA FLORES PUPO - 071.582.309-45</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522475</Data></Cell>
+			<Cell><Data ss:Type="String">19009704 - LEONARDO AVANY NUNES - 019.233.959-12</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">205439</Data></Cell>
+			<Cell><Data ss:Type="String">19013582 - FERNANDA DORS TIGRE DA SILVA - 927.214.860-04</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156912</Data></Cell>
+			<Cell><Data ss:Type="String">19017028 - FERNANDA SERAFIM DAL TOE - 04406120980</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192287</Data></Cell>
+			<Cell><Data ss:Type="String">19017821 - LUIZ PEDRO WILLIMANN ROGERIO - 050.719.919-77</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479416</Data></Cell>
+			<Cell><Data ss:Type="String">19018435 - NATHALIA DE OLIVEIRA SOUZA LOCH - 009.503.899-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479414</Data></Cell>
+			<Cell><Data ss:Type="String">19018827 - ANIE SAVI SERAFIM - 003.544.439-84</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479410</Data></Cell>
+			<Cell><Data ss:Type="String">19019578  - MANUELA JUSTI DE FARIAS - 057.893.689-56</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">82929</Data></Cell>
+			<Cell><Data ss:Type="String">19019612 - NADIANE MACIEL BECKER - 05062688965</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455062</Data></Cell>
+			<Cell><Data ss:Type="String">16000015 - CLINICA DE NEFROLOGIA SC LTDA - 83.852.624/0001-64</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479400</Data></Cell>
+			<Cell><Data ss:Type="String">19023077 - LUCIANO PEREIRA BENDER - 005.709.910-30</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479396</Data></Cell>
+			<Cell><Data ss:Type="String">19023785 - EDUARDO DAMINELLI DALLO - 081.042.429-03</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479397</Data></Cell>
+			<Cell><Data ss:Type="String">19026520 - GUSTAVO CARDOSO DA SILVA - 096.962.219-83</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156808</Data></Cell>
+			<Cell><Data ss:Type="String">19026520 - GUSTAVO CARDOSO DA SILVA - 09696221983</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344638</Data></Cell>
+			<Cell><Data ss:Type="String">1919955 - ELOA SACHET NUERNBERG - 061.599.289-70</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192232</Data></Cell>
+			<Cell><Data ss:Type="String">50050867 - SAUDE FISIOTERAPIA E ATENDIMENTO LTDA - 05.423.573/0001-41</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522074</Data></Cell>
+			<Cell><Data ss:Type="String">1920665 - JULIANA RODRIGUES DA ROSA - 080.434.739-51</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">152785</Data></Cell>
+			<Cell><Data ss:Type="String">2000077 - LAB BIOCLINICO CRICIUMA LTDA - 83653048000126</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479486</Data></Cell>
+			<Cell><Data ss:Type="String">12000139 - CLINIGASTRO CLINICA MEDICA LTDA - 80.084.619/0001-60</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479422</Data></Cell>
+			<Cell><Data ss:Type="String">1035183 - ALVARO ERNANI GEORG - 328.109.970-04</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479418</Data></Cell>
+			<Cell><Data ss:Type="String">1037229 - RICARDO GEHRKE BECKER - 933.480.450-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192214</Data></Cell>
+			<Cell><Data ss:Type="String">11000015 - NUCLEARMED CENTRO DE MEDICINA NUCLEAR CATARINENSE LTDA - 06.133.685/0001-20</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479496</Data></Cell>
+			<Cell><Data ss:Type="String">11000015 - NUCLEARMED CENTRO DE MEDICINA NUCLEAR CATARINENSE LTDA - 06.133.685/0001-20</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91020</Data></Cell>
+			<Cell><Data ss:Type="String">11000015 - NUCLEARMED CENTRO DE MEDICINA NUCLEAR CATARINENSE LTDA - 06133685000120</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">217732</Data></Cell>
+			<Cell><Data ss:Type="String">12000139 - CLINIGASTRO CLINICA MEDICA LTDA - 80.084.619/0001-60</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">236368</Data></Cell>
+			<Cell><Data ss:Type="String">12000139 - CLINIGASTRO CLINICA MEDICA LTDA - 80.084.619/0001-60</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344643</Data></Cell>
+			<Cell><Data ss:Type="String">12000139 - CLINIGASTRO CLINICA MEDICA LTDA - 80.084.619/0001-60</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344647</Data></Cell>
+			<Cell><Data ss:Type="String">1920665 - JULIANA RODRIGUES DA ROSA - 080.434.739-51</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">92710</Data></Cell>
+			<Cell><Data ss:Type="String">12000139 - CLINIGASTRO CLINICA MEDICA LTDA - 80084619000160</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156907</Data></Cell>
+			<Cell><Data ss:Type="String">12000139 - CLINIGASTRO CLINICA MEDICA LTDA - 80084619000160</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">161709</Data></Cell>
+			<Cell><Data ss:Type="String">13 Termo Aditivo Contratual - Laboratório de Patologia Rocha LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">160239</Data></Cell>
+			<Cell><Data ss:Type="String">13 Termo Aditivo Contratual - Patogene Medicina Diagnostica LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192208</Data></Cell>
+			<Cell><Data ss:Type="String">16000015 - CLINICA DE NEFROLOGIA SC LTDA - 83.852.624/0001-64</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">205433</Data></Cell>
+			<Cell><Data ss:Type="String">16000015 - CLINICA DE NEFROLOGIA SC LTDA - 83.852.624/0001-64</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344651</Data></Cell>
+			<Cell><Data ss:Type="String">16000015 - CLINICA DE NEFROLOGIA SC LTDA - 83.852.624/0001-64</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636618</Data></Cell>
+			<Cell><Data ss:Type="String">5000024 - CLINICA DE FISIOTERAPIA VENEZA - 04.356.511/0001-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176240</Data></Cell>
+			<Cell><Data ss:Type="String">5000021 - TRENARE CENTRO DE CONDICIONAMENTO FISICO LTDA - 27.097.647/0001-30</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176290</Data></Cell>
+			<Cell><Data ss:Type="String">5000021 - TRENARE CENTRO DE CONDICIONAMENTO FISICO LTDA - 27.097.647/0001-30</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">627643</Data></Cell>
+			<Cell><Data ss:Type="String">5000021 - TRENARE CENTRO DE CONDICIONAMENTO FISICO LTDA - 27.097.647/0001-30</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176297</Data></Cell>
+			<Cell><Data ss:Type="String">5000022 - CENTROSUL-CENTRO TERAPEUTICO DA REGIAO SUL LTDA - 81.535.650/0001-33</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636592</Data></Cell>
+			<Cell><Data ss:Type="String">5000022 - CENTROSUL-CENTRO TERAPEUTICO DA REGIAO SUL LTDA - 81.535.650/0001-33</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156377</Data></Cell>
+			<Cell><Data ss:Type="String">5000022 - CENTROSUL-CENTRO TERAPEUTICO DA REGIAO SUL LTDA - 81535650000133</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176298</Data></Cell>
+			<Cell><Data ss:Type="String">5000024 - CLINICA DE FISIOTERAPIA VENEZA - 04.356.511/0001-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">631568</Data></Cell>
+			<Cell><Data ss:Type="String">5000024 - CLINICA DE FISIOTERAPIA VENEZA - 04.356.511/0001-00</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176239</Data></Cell>
+			<Cell><Data ss:Type="String">5000021 - TRENARE CENTRO DE CONDICIONAMENTO FISICO LTDA - 27.097.647/0001-30</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156826</Data></Cell>
+			<Cell><Data ss:Type="String">5000024 - CLINICA DE FISIOTERAPIA VENEZA - 04356511000100</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176293</Data></Cell>
+			<Cell><Data ss:Type="String">5000025 - JANSEN FISIOTERAPIA E ESTETICA LTDA - 04.813.361/0001-08</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636619</Data></Cell>
+			<Cell><Data ss:Type="String">5000025 - JANSEN FISIOTERAPIA E ESTETICA LTDA - 04.813.361/0001-08</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157744</Data></Cell>
+			<Cell><Data ss:Type="String">5000025 - JANSEN FISIOTERAPIA E ESTETICA LTDA - 04813361000108</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176299</Data></Cell>
+			<Cell><Data ss:Type="String">5000026 - CLIN DE FISIOTERAPIA SAO JUDAS TADEU LT - 04.925.495/0001-10</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636599</Data></Cell>
+			<Cell><Data ss:Type="String">5000026 - CLIN DE FISIOTERAPIA SAO JUDAS TADEU LT - 04.925.495/0001-10</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157733</Data></Cell>
+			<Cell><Data ss:Type="String">5000026 - CLIN DE FISIOTERAPIA SAO JUDAS TADEU LT - 04925495000110</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">178868</Data></Cell>
+			<Cell><Data ss:Type="String">5000027 - FISIOCLINICA ICARA LTDA - 05.569.499/0001-76</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176294</Data></Cell>
+			<Cell><Data ss:Type="String">5000015 - CLINICA FISIOTERAPEUTICA GOMES SALGADO LTDA - 07.843.456/0001-62</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636607</Data></Cell>
+			<Cell><Data ss:Type="String">5000012 - CLINICA FISIOTERAPICA SALGADO LTDA - 83.115.691/0001-04</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156825</Data></Cell>
+			<Cell><Data ss:Type="String">5000012 - CLINICA FISIOTERAPICA SALGADO LTDA - 83115691000104</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176309</Data></Cell>
+			<Cell><Data ss:Type="String">5000013 - FORFISIO-CLINICA DE FISIOTERAPIA - 05.509.835/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192258</Data></Cell>
+			<Cell><Data ss:Type="String">5000013 - FORFISIO-CLINICA DE FISIOTERAPIA - 05.509.835/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">627632</Data></Cell>
+			<Cell><Data ss:Type="String">5000013 - FORFISIO-CLINICA DE FISIOTERAPIA - 05.509.835/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176283</Data></Cell>
+			<Cell><Data ss:Type="String">5000014 - CENTRO INT DE SAUDE MORRO DA FUMACA S/C - 05.378.599/0001-15</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636601</Data></Cell>
+			<Cell><Data ss:Type="String">5000014 - CENTRO INT DE SAUDE MORRO DA FUMACA S/C - 05.378.599/0001-15</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157732</Data></Cell>
+			<Cell><Data ss:Type="String">5000014 - CENTRO INT DE SAUDE MORRO DA FUMACA S/C - 05378599000115</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636598</Data></Cell>
+			<Cell><Data ss:Type="String">5000027 - FISIOCLINICA ICARA LTDA - 05.569.499/0001-76</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">199398</Data></Cell>
+			<Cell><Data ss:Type="String">5000015 - CLINICA FISIOTERAPEUTICA GOMES SALGADO LTDA - 07.843.456/0001-62</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479498</Data></Cell>
+			<Cell><Data ss:Type="String">5000015 - CLINICA FISIOTERAPEUTICA GOMES SALGADO LTDA - 07.843.456/0001-62</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">627639</Data></Cell>
+			<Cell><Data ss:Type="String">5000015 - CLINICA FISIOTERAPEUTICA GOMES SALGADO LTDA - 07.843.456/0001-62</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">153061</Data></Cell>
+			<Cell><Data ss:Type="String">5000015 - CLINICA FISIOTERAPEUTICA GOMES SALGADO LTDA - 07843456000162</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176226</Data></Cell>
+			<Cell><Data ss:Type="String">5000020 - CRESCER CLINICA DE FISIOTERAPIA LTDA - 80.094.378/0001-30</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192259</Data></Cell>
+			<Cell><Data ss:Type="String">5000020 - CRESCER CLINICA DE FISIOTERAPIA LTDA - 80.094.378/0001-30</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636594</Data></Cell>
+			<Cell><Data ss:Type="String">5000020 - CRESCER CLINICA DE FISIOTERAPIA LTDA - 80.094.378/0001-30</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">242323</Data></Cell>
+			<Cell><Data ss:Type="String">5001013 - LA FEMME FISIOTERAPIA LTDA-ME - 11.880.462/0001-67</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156380</Data></Cell>
+			<Cell><Data ss:Type="String">5001009 - CLINICA DE FISIOTERAPIA SANTA INES LTDA - 07903037000179</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">223875</Data></Cell>
+			<Cell><Data ss:Type="String">5001010 - BFS CLINICA DE FISIOTERAPIA E REABILITACAO LTDA - 10.333.982/0001-97</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283367</Data></Cell>
+			<Cell><Data ss:Type="String">5001010 - BFS CLINICA DE FISIOTERAPIA E REABILITACAO LTDA - 10.333.982/0001-97</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344663</Data></Cell>
+			<Cell><Data ss:Type="String">5001010 - BFS CLINICA DE FISIOTERAPIA E REABILITACAO LTDA - 10.333.982/0001-97</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">646936</Data></Cell>
+			<Cell><Data ss:Type="String">5001010 - BFS CLINICA DE FISIOTERAPIA E REABILITACAO LTDA - 10.333.982/0001-97</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176323</Data></Cell>
+			<Cell><Data ss:Type="String">5001011 - DOLZAN & DOLZAN LTDA - 05.677.439/0001-77</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636609</Data></Cell>
+			<Cell><Data ss:Type="String">5001011 - DOLZAN & DOLZAN LTDA - 05.677.439/0001-77</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156381</Data></Cell>
+			<Cell><Data ss:Type="String">5001011 - DOLZAN & DOLZAN LTDA - 05677439000177</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636612</Data></Cell>
+			<Cell><Data ss:Type="String">5001009 - CLINICA DE FISIOTERAPIA SANTA INES LTDA - 07.903.037/0001-79</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">674194</Data></Cell>
+			<Cell><Data ss:Type="String">5001013 - LA FEMME FISIOTERAPIA LTDA-ME - 11.880.462/0001-67</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">178879</Data></Cell>
+			<Cell><Data ss:Type="String">5001014 - CLINIFISIO CLINICA DE FISIOTERAPIA LTDA ME - 10.717.474/0001-02</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">668402</Data></Cell>
+			<Cell><Data ss:Type="String">5001014 - CLINIFISIO CLINICA DE FISIOTERAPIA LTDA ME - 10.717.474/0001-02</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">152784</Data></Cell>
+			<Cell><Data ss:Type="String">5001014 - CLINIFISIO CLINICA DE FISIOTERAPIA LTDA ME - 10717474000102</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">178873</Data></Cell>
+			<Cell><Data ss:Type="String">5001015 - CLINICA DE FISIOTERAPIA QUARTA LINHA LTDA - ME - 07.610.220/0001-86</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192220</Data></Cell>
+			<Cell><Data ss:Type="String">5001015 - CLINICA DE FISIOTERAPIA QUARTA LINHA LTDA - ME - 07.610.220/0001-86</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636606</Data></Cell>
+			<Cell><Data ss:Type="String">5001015 - CLINICA DE FISIOTERAPIA QUARTA LINHA LTDA - ME - 07.610.220/0001-86</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">178878</Data></Cell>
+			<Cell><Data ss:Type="String">50050867 - SAUDE FISIOTERAPIA E ATENDIMENTO LTDA - 05.423.573/0001-41</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156820</Data></Cell>
+			<Cell><Data ss:Type="String">5001006 - OLIFISIO CLINICA DE FISIOTERAPIA ORTOPEDICA TRAUMATOLOGICA ESPORTIVA LTDA - 05569998000163</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156382</Data></Cell>
+			<Cell><Data ss:Type="String">5000027 - FISIOCLINICA ICARA LTDA - 05569499000176</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176308</Data></Cell>
+			<Cell><Data ss:Type="String">5000030 - CLINICA DE FISIOTERAPIA RIO MAINA LTDA - 05.693.242/0001-21</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636616</Data></Cell>
+			<Cell><Data ss:Type="String">5000030 - CLINICA DE FISIOTERAPIA RIO MAINA LTDA - 05.693.242/0001-21</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156822</Data></Cell>
+			<Cell><Data ss:Type="String">5000030 - CLINICA DE FISIOTERAPIA RIO MAINA LTDA - 05693242000121</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192217</Data></Cell>
+			<Cell><Data ss:Type="String">5001004 - CRIFISIO CLINICA DE FISIOTERAPIA - 01.501.164/0001-65</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636614</Data></Cell>
+			<Cell><Data ss:Type="String">5001004 - CRIFISIO CLINICA DE FISIOTERAPIA - 01.501.164/0001-65</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">178869</Data></Cell>
+			<Cell><Data ss:Type="String">5001006 - OLIFISIO CLINICA DE FISIOTERAPIA ORTOPEDICA TRAUMATOLOGICA ESPORTIVA LTDA - 05.569.998/0001-63</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636615</Data></Cell>
+			<Cell><Data ss:Type="String">5001006 - OLIFISIO CLINICA DE FISIOTERAPIA ORTOPEDICA TRAUMATOLOGICA ESPORTIVA LTDA - 05.569.998/0001-63</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">273754</Data></Cell>
+			<Cell><Data ss:Type="String">3000008 - URC - UNIDADE RADIOLOGICA CRICIUMA LTDA - 81.317.893/0001-03</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">178870</Data></Cell>
+			<Cell><Data ss:Type="String">5001007 - CLINICA DE FISIOT SAUDABILIS VITTA LTDA - 07.097.979/0001-07</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636613</Data></Cell>
+			<Cell><Data ss:Type="String">5001007 - CLINICA DE FISIOT SAUDABILIS VITTA LTDA - 07.097.979/0001-07</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156376</Data></Cell>
+			<Cell><Data ss:Type="String">5001007 - CLINICA DE FISIOT SAUDABILIS VITTA LTDA - 07097979000107</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">178880</Data></Cell>
+			<Cell><Data ss:Type="String">5001008 - UROGIN CLINICA DE FISIOTERAPIA LTDA ME - 08.293.299/0001-21</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">646939</Data></Cell>
+			<Cell><Data ss:Type="String">5001008 - UROGIN CLINICA DE FISIOTERAPIA LTDA ME - 08.293.299/0001-21</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156818</Data></Cell>
+			<Cell><Data ss:Type="String">5001008 - UROGIN CLINICA DE FISIOTERAPIA LTDA ME - 08293299000121</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">178872</Data></Cell>
+			<Cell><Data ss:Type="String">5001009 - CLINICA DE FISIOTERAPIA SANTA INES LTDA - 07.903.037/0001-79</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283345</Data></Cell>
+			<Cell><Data ss:Type="String">3000141 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0001-91</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">217739</Data></Cell>
+			<Cell><Data ss:Type="String">3000016 - UNIDADE RADIOLOGICA CRICIUMA TOMOGRAFIA COMPUTADORIZADA - URC TC LTDA - 09.349.429/0001-63</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">273755</Data></Cell>
+			<Cell><Data ss:Type="String">3000016 - UNIDADE RADIOLOGICA CRICIUMA TOMOGRAFIA COMPUTADORIZADA - URC TC LTDA - 09.349.429/0001-63</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">273760</Data></Cell>
+			<Cell><Data ss:Type="String">3000016 - UNIDADE RADIOLOGICA CRICIUMA TOMOGRAFIA COMPUTADORIZADA - URC TC LTDA - 09.349.429/0001-63</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">415079</Data></Cell>
+			<Cell><Data ss:Type="String">3000016 - UNIDADE RADIOLOGICA CRICIUMA TOMOGRAFIA COMPUTADORIZADA - URC TC LTDA - 09.349.429/0001-63</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">152665</Data></Cell>
+			<Cell><Data ss:Type="String">3000016 - UNIDADE RADIOLOGICA CRICIUMA TOMOGRAFIA COMPUTADORIZADA - URC TC LTDA - 09349429000163</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176388</Data></Cell>
+			<Cell><Data ss:Type="String">3000141 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0001-91</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192219</Data></Cell>
+			<Cell><Data ss:Type="String">3000141 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0001-91</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283332</Data></Cell>
+			<Cell><Data ss:Type="String">3000141 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0001-91</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344661</Data></Cell>
+			<Cell><Data ss:Type="String">3000012 - UDOC UNIDADE DE DENSITOMETRIA OSSEA CRICIUMA LTDA - 00.104.956/0001-33</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">331968</Data></Cell>
+			<Cell><Data ss:Type="String">3000141 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0001-91</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">367099</Data></Cell>
+			<Cell><Data ss:Type="String">3000141 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0001-91</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">415037</Data></Cell>
+			<Cell><Data ss:Type="String">3000141 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0001-91</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455109</Data></Cell>
+			<Cell><Data ss:Type="String">3000141 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0001-91</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85322</Data></Cell>
+			<Cell><Data ss:Type="String">3000141 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05754281000191</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">199401</Data></Cell>
+			<Cell><Data ss:Type="String">3000142 - RESULTRA DIAGNOSTICO POR IMAGEM LTDA - 08.606.934/0001-83</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85319</Data></Cell>
+			<Cell><Data ss:Type="String">3000142 - RESULTRA DIAGNOSTICO POR IMAGEM LTDA - 08606934000183</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479371</Data></Cell>
+			<Cell><Data ss:Type="String">3000143 - OSTEOIMAGEM DIAGNOSTICO POR IMAGEM - 10.372.179/0001-61</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">223869</Data></Cell>
+			<Cell><Data ss:Type="String">3000011 - UNIDADE RADIOLOGICA CRICIUMA DE RESSONANCIA MAGNETICA-URC RM LTDA - 13.824.794/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">217744</Data></Cell>
+			<Cell><Data ss:Type="String">3000008 - URC - UNIDADE RADIOLOGICA CRICIUMA LTDA - 81.317.893/0001-03</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">273763</Data></Cell>
+			<Cell><Data ss:Type="String">3000008 - URC - UNIDADE RADIOLOGICA CRICIUMA LTDA - 81.317.893/0001-03</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">415074</Data></Cell>
+			<Cell><Data ss:Type="String">3000008 - URC - UNIDADE RADIOLOGICA CRICIUMA LTDA - 81.317.893/0001-03</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176389</Data></Cell>
+			<Cell><Data ss:Type="String">3000010 - DR FLAVIO PAULO ALTHOFF DIAGNOSTICO POR IMAGEM LTDA - 82.995.705/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522469</Data></Cell>
+			<Cell><Data ss:Type="String">3000010 - DR FLAVIO PAULO ALTHOFF DIAGNOSTICO POR IMAGEM LTDA - 82.995.705/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85324</Data></Cell>
+			<Cell><Data ss:Type="String">3000010 - DR FLAVIO PAULO ALTHOFF DIAGNOSTICO POR IMAGEM LTDA - 82995705000150</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">217738</Data></Cell>
+			<Cell><Data ss:Type="String">3000011 - UNIDADE RADIOLOGICA CRICIUMA DE RESSONANCIA MAGNETICA-URC RM LTDA - 13.824.794/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">223867</Data></Cell>
+			<Cell><Data ss:Type="String">3000011 - UNIDADE RADIOLOGICA CRICIUMA DE RESSONANCIA MAGNETICA-URC RM LTDA - 13.824.794/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">72301</Data></Cell>
+			<Cell><Data ss:Type="String">4059 - teste - 025.196.119-28</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">273758</Data></Cell>
+			<Cell><Data ss:Type="String">3000011 - UNIDADE RADIOLOGICA CRICIUMA DE RESSONANCIA MAGNETICA-URC RM LTDA - 13.824.794/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">273762</Data></Cell>
+			<Cell><Data ss:Type="String">3000011 - UNIDADE RADIOLOGICA CRICIUMA DE RESSONANCIA MAGNETICA-URC RM LTDA - 13.824.794/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">331967</Data></Cell>
+			<Cell><Data ss:Type="String">3000011 - UNIDADE RADIOLOGICA CRICIUMA DE RESSONANCIA MAGNETICA-URC RM LTDA - 13.824.794/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">415296</Data></Cell>
+			<Cell><Data ss:Type="String">3000011 - UNIDADE RADIOLOGICA CRICIUMA DE RESSONANCIA MAGNETICA-URC RM LTDA - 13.824.794/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">199579</Data></Cell>
+			<Cell><Data ss:Type="String">3000012 - UDOC UNIDADE DE DENSITOMETRIA OSSEA CRIC LTDA - 00.104.956/0001-33</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85320</Data></Cell>
+			<Cell><Data ss:Type="String">3000012 - UDOC UNIDADE DE DENSITOMETRIA OSSEA CRIC LTDA - 00104956000133</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344657</Data></Cell>
+			<Cell><Data ss:Type="String">3000012 - UDOC UNIDADE DE DENSITOMETRIA OSSEA CRICIUMA LTDA - 00.104.956/0001-33</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479361</Data></Cell>
+			<Cell><Data ss:Type="String">4000063 - INSTITUTO MARIA SCHMITT DE DESENVOLVIMENTO DE ENSINO, ASSISTENCIA SOCIAL E SAUDE DO CIDADAO - 28.700.530/0002-42</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344637</Data></Cell>
+			<Cell><Data ss:Type="String">4000052 - FUNDACAO SOCIAL HOSPITALAR DE ICARA - 83.852.418/0001-54</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">627622</Data></Cell>
+			<Cell><Data ss:Type="String">4000052 - FUNDACAO SOCIAL HOSPITALAR DE ICARA - 83.852.418/0001-54</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157742</Data></Cell>
+			<Cell><Data ss:Type="String">4000052 - FUNDACAO SOCIAL HOSPITALAR DE ICARA - 83852418000154</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">639448</Data></Cell>
+			<Cell><Data ss:Type="String">4000053 - HOSPITAL DE CARIDADE SAO ROQUE - 86.532.751/0001-74</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157741</Data></Cell>
+			<Cell><Data ss:Type="String">4000053 - HOSPITAL DE CARIDADE SAO ROQUE - 86532751000174</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344636</Data></Cell>
+			<Cell><Data ss:Type="String">4000055 - HOSPITAL NOSSA SENHORA DA CONCEICAO - 86.531.803/0001-98</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">627628</Data></Cell>
+			<Cell><Data ss:Type="String">4000055 - HOSPITAL NOSSA SENHORA DA CONCEICAO - 86.531.803/0001-98</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157746</Data></Cell>
+			<Cell><Data ss:Type="String">4000055 - HOSPITAL NOSSA SENHORA DA CONCEICAO - 86531803000198</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344658</Data></Cell>
+			<Cell><Data ss:Type="String">3000144 - GESTAR ULTRA SONOGRAFIA E MEDICINA FETAL LTDA - 08.686.645/0001-31</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">604997</Data></Cell>
+			<Cell><Data ss:Type="String">40040805 - HOSPITAL SAO ROQUE - 85.666.774/0001-09</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157747</Data></Cell>
+			<Cell><Data ss:Type="String">40040805 - HOSPITAL SAO ROQUE - 85666774000109</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283316</Data></Cell>
+			<Cell><Data ss:Type="String">40040810 - HOSPITAL SAO SEBASTIAO - 86.513.124/0001-96</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157745</Data></Cell>
+			<Cell><Data ss:Type="String">40040810 - HOSPITAL SAO SEBASTIAO - 86513124000196</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479362</Data></Cell>
+			<Cell><Data ss:Type="String">40040811 - INSTITUTO MARIA SCHMITT DE DESENVOLVIMENTO DE ENSINO, ASSISTENCIA SOCIAL E SAUDE DO CIDADAO - 28.700.530/0003-23</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157748</Data></Cell>
+			<Cell><Data ss:Type="String">40040823 - ASSOCIACAO COMUNITARIA SAO JUDAS TADEU DE MELEIRO - 02160922000191</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176291</Data></Cell>
+			<Cell><Data ss:Type="String">5000012 - CLINICA FISIOTERAPICA SALGADO LTDA - 83.115.691/0001-04</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344641</Data></Cell>
+			<Cell><Data ss:Type="String">33407154 - WALDIERE MACHADO GONCALVES - 694.342.989-20</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">200882</Data></Cell>
+			<Cell><Data ss:Type="String">3000144 - GESTAR ULTRA SONOGRAFIA E MEDICINA FETAL LTDA - 08.686.645/0001-31</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344660</Data></Cell>
+			<Cell><Data ss:Type="String">3000144 - GESTAR ULTRA SONOGRAFIA E MEDICINA FETAL LTDA - 08.686.645/0001-31</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455101</Data></Cell>
+			<Cell><Data ss:Type="String">3000144 - GESTAR ULTRA SONOGRAFIA E MEDICINA FETAL LTDA - 08.686.645/0001-31</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">555658</Data></Cell>
+			<Cell><Data ss:Type="String">3000144 - GESTAR ULTRA SONOGRAFIA E MEDICINA FETAL LTDA - 08.686.645/0001-31</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176387</Data></Cell>
+			<Cell><Data ss:Type="String">30030670 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0003-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">273765</Data></Cell>
+			<Cell><Data ss:Type="String">30030670 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0003-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283333</Data></Cell>
+			<Cell><Data ss:Type="String">30030670 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0003-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283344</Data></Cell>
+			<Cell><Data ss:Type="String">30030670 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0003-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">367100</Data></Cell>
+			<Cell><Data ss:Type="String">30030670 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0003-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">197537</Data></Cell>
+			<Cell><Data ss:Type="String">4000051 - SOCIEDADE LITERARIA E CARITATIVA SANTO AGOSTINHO - 92.736.040/0008-90</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">212849</Data></Cell>
+			<Cell><Data ss:Type="String">33407154 - WALDIERE MACHADO GONCALVES - 694.342.989-20</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">153339</Data></Cell>
+			<Cell><Data ss:Type="String">30030670 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05754281000353</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522470</Data></Cell>
+			<Cell><Data ss:Type="String">30030670 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0003-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">331969</Data></Cell>
+			<Cell><Data ss:Type="String">30030670 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0003-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">415295</Data></Cell>
+			<Cell><Data ss:Type="String">30030670 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0003-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455108</Data></Cell>
+			<Cell><Data ss:Type="String">30030670 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05.754.281/0003-53</Data></Cell>
+			<Cell><Data ss:Type="String">2 - Concluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">583385</Data></Cell>
+			<Cell><Data ss:Type="String">teste envelope thalles</Data></Cell>
+			<Cell><Data ss:Type="String">3 - Expirados</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85311</Data></Cell>
+			<Cell><Data ss:Type="String">6000010 - CARDIODAY CLINICA CARDIOLOGICA LTDA ME - 11674548000133</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176337</Data></Cell>
+			<Cell><Data ss:Type="String">50051016 - ANGELA HILSENDEGER PEREIRA MILIOLI ME - 10.335.668/0001-43</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85291</Data></Cell>
+			<Cell><Data ss:Type="String">6000001 - CARDIO VITTA - DIAGNOSTICOS EM CARDIOLOGIA LTDA - 16841656000177</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455099</Data></Cell>
+			<Cell><Data ss:Type="String">6000003 - PRONTO AR PULMOCLINICA CLINICA MEDICA LTDA - 80.978.596/0001-38</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85316</Data></Cell>
+			<Cell><Data ss:Type="String">6000003 - PRONTO AR PULMOCLINICA CLINICA MEDICA LTDA - 80978596000138</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85313</Data></Cell>
+			<Cell><Data ss:Type="String">6000007 - CARDIOSERV-CLIN CARD E SERV MEDICOS LTDA - 09138968000153</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">153604</Data></Cell>
+			<Cell><Data ss:Type="String">6000007 - CARDIOSERV-CLIN CARD E SERV MEDICOS LTDA - 09138968000153</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91036</Data></Cell>
+			<Cell><Data ss:Type="String">6000008 - CEDOC-CENTRO DE DIAGNOSTICO OTORRINOLARINGOLOGICO DE CRICIUMA LTDA - 10775582000131</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">153739</Data></Cell>
+			<Cell><Data ss:Type="String">6000008 - CEDOC-CENTRO DE DIAGNOSTICO OTORRINOLARINGOLOGICO DE CRICIUMA LTDA - 10775582000131</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192224</Data></Cell>
+			<Cell><Data ss:Type="String">50050977 - SERFISIO SERVICOS DE FISIOTERAPIA LTDA - 09.026.088/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91023</Data></Cell>
+			<Cell><Data ss:Type="String">6000015 - MOVA - MEDICINA DA OBESIDADE E VIDEOCIRURGIA AVANCADA EIRELI - 15431143000125</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">152662</Data></Cell>
+			<Cell><Data ss:Type="String">6000015 - MOVA - MEDICINA DA OBESIDADE E VIDEOCIRURGIA AVANCADA EIRELI - 15431143000125</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">152780</Data></Cell>
+			<Cell><Data ss:Type="String">6000015 - MOVA - MEDICINA DA OBESIDADE E VIDEOCIRURGIA AVANCADA EIRELI - 15431143000125</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85298</Data></Cell>
+			<Cell><Data ss:Type="String">6000016 - LEONARDO MAGALHAES YOUSSEF EIRELI - ME - 23527280000196</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156909</Data></Cell>
+			<Cell><Data ss:Type="String">6000016 - LEONARDO MAGALHAES YOUSSEF EIRELI - ME - 23527280000196</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176391</Data></Cell>
+			<Cell><Data ss:Type="String">6000054 - NEFROM NEFROLOGIA E MEDICINA INTERNA LTDA - 24.367.080/0001-86</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85302</Data></Cell>
+			<Cell><Data ss:Type="String">6000064 - ANIMA CLINICA MEDICA S/S LTDA - ME - 25194996000144</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176392</Data></Cell>
+			<Cell><Data ss:Type="String">6000069 - CONTATO ATENDIMENTO EM PSICOLOGIA LTDA - ME - 26.076.357/0001-47</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">659038</Data></Cell>
+			<Cell><Data ss:Type="String">5001014 - CLINIFISIO CLINICA DE FISIOTERAPIA LTDA ME - 10.717.474/0001-02</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">205431</Data></Cell>
+			<Cell><Data ss:Type="String">5001010 - BFS CLINICA DE FISIOTERAPIA E REABILITACAO LTDA - 10.333.982/0001-97</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">205434</Data></Cell>
+			<Cell><Data ss:Type="String">5001010 - BFS CLINICA DE FISIOTERAPIA E REABILITACAO LTDA - 10.333.982/0001-97</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156817</Data></Cell>
+			<Cell><Data ss:Type="String">5001010 - BFS CLINICA DE FISIOTERAPIA E REABILITACAO LTDA - 10333982000197</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">178881</Data></Cell>
+			<Cell><Data ss:Type="String">5001013 - LA FEMME FISIOTERAPIA LTDA-ME - 11.880.462/0001-67</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192222</Data></Cell>
+			<Cell><Data ss:Type="String">5001013 - LA FEMME FISIOTERAPIA LTDA-ME - 11.880.462/0001-67</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636597</Data></Cell>
+			<Cell><Data ss:Type="String">5001013 - LA FEMME FISIOTERAPIA LTDA-ME - 11.880.462/0001-67</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176324</Data></Cell>
+			<Cell><Data ss:Type="String">5001014 - CLINIFISIO CLINICA DE FISIOTERAPIA LTDA ME - 10.717.474/0001-02</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">646928</Data></Cell>
+			<Cell><Data ss:Type="String">5001014 - CLINIFISIO CLINICA DE FISIOTERAPIA LTDA ME - 10.717.474/0001-02</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85496</Data></Cell>
+			<Cell><Data ss:Type="String">6000079 - MIOCUORE CARDIOLOGIA LTDA - 27238747000139</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">178874</Data></Cell>
+			<Cell><Data ss:Type="String">50050869 - FISION CLINICA DE FISIOTERAPIA LTDA - 05.904.916/0001-90</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192228</Data></Cell>
+			<Cell><Data ss:Type="String">50050869 - FISION CLINICA DE FISIOTERAPIA LTDA - 05.904.916/0001-90</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176328</Data></Cell>
+			<Cell><Data ss:Type="String">50050913 - OSTEOFISIO CENTRO REABILITACAO FISIOTERAPIA - 07.591.800/0001-73</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176233</Data></Cell>
+			<Cell><Data ss:Type="String">50050933 - CLINICA DE FISIOTERAPIA KARINA TAVARES LTDA ME - 08.395.812/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176336</Data></Cell>
+			<Cell><Data ss:Type="String">50050933 - CLINICA DE FISIOTERAPIA KARINA TAVARES LTDA ME - 08.395.812/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192262</Data></Cell>
+			<Cell><Data ss:Type="String">50050933 - CLINICA DE FISIOTERAPIA KARINA TAVARES LTDA ME - 08.395.812/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173692</Data></Cell>
+			<Cell><Data ss:Type="String">50050933 - CLINICA DE FISIOTERAPIA KARINA TAVARES LTDA ME - 08395812000195</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176340</Data></Cell>
+			<Cell><Data ss:Type="String">50050977 - SERFISIO SERVICOS DE FISIOTERAPIA LTDA - 09.026.088/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">73041</Data></Cell>
+			<Cell><Data ss:Type="String">Contrato X</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283358</Data></Cell>
+			<Cell><Data ss:Type="String">95000025 - MARILEI VIEIRA - 415.209.129-00</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283356</Data></Cell>
+			<Cell><Data ss:Type="String">95000030 - CARMEN BERENICE ROSWAG MADEIRA - 582.350.439-04</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479347</Data></Cell>
+			<Cell><Data ss:Type="String">95000030 - CARMEN BERENICE ROSWAG MADEIRA - 582.350.439-04</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173708</Data></Cell>
+			<Cell><Data ss:Type="String">95000044 - KAROLINE FRANCA ORBEN - 067.347.629-47</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173704</Data></Cell>
+			<Cell><Data ss:Type="String">95000048 - CRISTIANE D'ACAMPORA GUAZZI - 905.874.727-15</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192248</Data></Cell>
+			<Cell><Data ss:Type="String">95000048 - CRISTIANE D'ACAMPORA GUAZZI - 905.874.727-15</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176347</Data></Cell>
+			<Cell><Data ss:Type="String">96000002 - MARCIANE BRAGA DA SILVA - 006.611.220-69</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192265</Data></Cell>
+			<Cell><Data ss:Type="String">96000007 - DEBORA CRISTINA TEIXEIRA - 068.418.289-09</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91033</Data></Cell>
+			<Cell><Data ss:Type="String">9000010 - CLINICA DE OLHOS PEREIRA LTDA - 00583332000146</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">53296</Data></Cell>
+			<Cell><Data ss:Type="String">4-Rubricas</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">52517</Data></Cell>
+			<Cell><Data ss:Type="String">teste 2</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">52514</Data></Cell>
+			<Cell><Data ss:Type="String">Teste Assinatura</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66968</Data></Cell>
+			<Cell><Data ss:Type="String">Somos Todos Criativos - Os Desafios Para D - Ken Robinson</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">65946</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">71988</Data></Cell>
+			<Cell><Data ss:Type="String">1000828 - JULIO MANFREDINI - 01856480968</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">81777</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">68689</Data></Cell>
+			<Cell><Data ss:Type="String">1000310 - JOSE ROGERIO PERESSONI CASTRO - 00616800959</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">331973</Data></Cell>
+			<Cell><Data ss:Type="String">6000133 - SINARA FRANCIELLY EDUARDO - 50.808.089/0001-95</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173689</Data></Cell>
+			<Cell><Data ss:Type="String">6000079 - MIOCUORE CARDIOLOGIA LTDA - 27238747000139</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192209</Data></Cell>
+			<Cell><Data ss:Type="String">6000085 - EQUILIBRIO CLINICA MEDICA LTDA - 04.343.304/0001-02</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">389199</Data></Cell>
+			<Cell><Data ss:Type="String">6000091 - LEVVE ORTOPEDIA LTDA - 08.656.703/0001-84</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283338</Data></Cell>
+			<Cell><Data ss:Type="String">6000116 - OTOPAN OTORRINOLARINGOLOGIA LTDA - 35.809.940/0001-00</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85278</Data></Cell>
+			<Cell><Data ss:Type="String">6000116 - OTOPAN OTORRINOLARINGOLOGIA LTDA - 35809940000100</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479386</Data></Cell>
+			<Cell><Data ss:Type="String">6000119 - NEUROESPECIALISTAS CLINICA DE NEUROLOGIA LTDA - 42.377.201/0001-52</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479388</Data></Cell>
+			<Cell><Data ss:Type="String">6000119 - NEUROESPECIALISTAS CLINICA DE NEUROLOGIA LTDA - 42.377.201/0001-52</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479390</Data></Cell>
+			<Cell><Data ss:Type="String">6000119 - NEUROESPECIALISTAS CLINICA DE NEUROLOGIA LTDA - 42.377.201/0001-52</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176322</Data></Cell>
+			<Cell><Data ss:Type="String">5001010 - BFS CLINICA DE FISIOTERAPIA E REABILITACAO LTDA - 10.333.982/0001-97</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">205437</Data></Cell>
+			<Cell><Data ss:Type="String">60050774 - RICARDO JOAO MATOS E CIA LTDA - 04.880.516/0001-29</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">152786</Data></Cell>
+			<Cell><Data ss:Type="String">60050774 - RICARDO JOAO MATOS E CIA LTDA - 04880516000129</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85292</Data></Cell>
+			<Cell><Data ss:Type="String">60050780 - CLINICA MEDICA DR WALDIERE MACHADO GONCALVES LTDA - 02858781000185</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85295</Data></Cell>
+			<Cell><Data ss:Type="String">60050997 - CENTROCARDIO ARARANGUA LTDA - ME - 10243547000171</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85297</Data></Cell>
+			<Cell><Data ss:Type="String">8000002 - CTC-CENTRO TRAT.DE CALCULOS RENAIS LTDA - 00750073000109</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85296</Data></Cell>
+			<Cell><Data ss:Type="String">8000003 - CLINICA ANTONINI LTDA ME - 22374368000152</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">91026</Data></Cell>
+			<Cell><Data ss:Type="String">8000004 - FT-CENTRO DE ESTETICA INTEGRADA EIRELI - 21114165000164</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85272</Data></Cell>
+			<Cell><Data ss:Type="String">8000005 - SAMIR MACHADO VERAN - 37833672000198</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">162048</Data></Cell>
+			<Cell><Data ss:Type="String">20020913 - JOVANA PIAZZA   ME - 01647993000231</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278476</Data></Cell>
+			<Cell><Data ss:Type="String">2000099 - LABORATORIO ANALISE CLINICA SANTA INES LTDA ME - 01.270.095/0001-26</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283322</Data></Cell>
+			<Cell><Data ss:Type="String">2000099 - LABORATORIO ANALISE CLINICA SANTA INES LTDA ME - 01.270.095/0001-26</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">197540</Data></Cell>
+			<Cell><Data ss:Type="String">2000107 - LABORATORIO CESA - ANALISES CLINICAS LTDA - 05.677.419/0001-04</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156378</Data></Cell>
+			<Cell><Data ss:Type="String">2000109 - DD LABORATORIO BIOQUIMICO LTDA - 06082808000141</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">157738</Data></Cell>
+			<Cell><Data ss:Type="String">2000111 - LABORATORIO DAL PONT LTDA - 04956464000127</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192271</Data></Cell>
+			<Cell><Data ss:Type="String">20010393 - LABORATORIO REGIONAL DE ANALISES CLINICAS SC LTDA - 80.991.458/0001-99</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278469</Data></Cell>
+			<Cell><Data ss:Type="String">20010690 - LABORATORIO DE ANALISES CLINICAS E CITOLOGIA SAO JOAO LTDA - 04.746.998/0001-29</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283371</Data></Cell>
+			<Cell><Data ss:Type="String">20020913 - JOVANA PIAZZA   ME - 01.647.993/0002-31</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278475</Data></Cell>
+			<Cell><Data ss:Type="String">2000090 - LABORATORIO PREVE LTDA - 03.288.464/0001-33</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192274</Data></Cell>
+			<Cell><Data ss:Type="String">20020916 - LABORATORIO DE ANALISES CLINICAS JAQUELINE LTDA - 85.387.181/0001-03</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278503</Data></Cell>
+			<Cell><Data ss:Type="String">20020917 - BIOANALISE LABORATORIO CLINICO LTDA - 04.763.107/0001-42</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278501</Data></Cell>
+			<Cell><Data ss:Type="String">20020923 - LABORATORIO SK CORAL EIRELI - 95.777.090/0001-38</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278504</Data></Cell>
+			<Cell><Data ss:Type="String">20020927 - LABORATORIO RAFAELA DAROS MACHADO LTDA - ME - 01.386.372/0001-60</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192276</Data></Cell>
+			<Cell><Data ss:Type="String">20020938 - LABORATORIO DE ANALISES RAFAEL LTDA - 05.478.054/0001-80</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278482</Data></Cell>
+			<Cell><Data ss:Type="String">20020938 - LABORATORIO DE ANALISES RAFAEL LTDA - 05.478.054/0001-80</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278468</Data></Cell>
+			<Cell><Data ss:Type="String">20020942 - GIZELI CARDOSO DA SILVA E CIA LTDA - 04.088.632/0001-00</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278500</Data></Cell>
+			<Cell><Data ss:Type="String">20020952 - LABORATORIO SKC LTDA - 06.002.502/0001-38</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">159966</Data></Cell>
+			<Cell><Data ss:Type="String">12000139 - CLINIGASTRO CLINICA MEDICA LTDA - 80084619000160</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">681831</Data></Cell>
+			<Cell><Data ss:Type="String">1013410 - JULIANO ZANETTE BORTOLOTTO - 036.796.649-23</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455054</Data></Cell>
+			<Cell><Data ss:Type="String">12000139 - CLINIGASTRO CLINICA MEDICA LTDA - 80.084.619/0001-60</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">583435</Data></Cell>
+			<Cell><Data ss:Type="String">12000139 - CLINIGASTRO CLINICA MEDICA LTDA - 80.084.619/0001-60</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">584511</Data></Cell>
+			<Cell><Data ss:Type="String">12000139 - CLINIGASTRO CLINICA MEDICA LTDA - 80.084.619/0001-60</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">83593</Data></Cell>
+			<Cell><Data ss:Type="String">12000139 - CLINIGASTRO CLINICA MEDICA LTDA - 80084619000160</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">83595</Data></Cell>
+			<Cell><Data ss:Type="String">12000139 - CLINIGASTRO CLINICA MEDICA LTDA - 80084619000160</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85276</Data></Cell>
+			<Cell><Data ss:Type="String">12000139 - CLINIGASTRO CLINICA MEDICA LTDA - 80084619000160</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85832</Data></Cell>
+			<Cell><Data ss:Type="String">12000139 - CLINIGASTRO CLINICA MEDICA LTDA - 80084619000160</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278479</Data></Cell>
+			<Cell><Data ss:Type="String">20020958 - TULIO MARAGNO CECONI - ME - 07.849.046/0001-29</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">227573</Data></Cell>
+			<Cell><Data ss:Type="String">12095 Lista de presença</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">160234</Data></Cell>
+			<Cell><Data ss:Type="String">13 Termo Aditivo Contratual - Patogene Medicina Diagnostica LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156819</Data></Cell>
+			<Cell><Data ss:Type="String">19013582 - FERNANDA DORS TIGRE DA SILVA - 92721486004</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479405</Data></Cell>
+			<Cell><Data ss:Type="String">19015973 - GIORDANA ZEFERINO MARIANO - 055.952.469-28</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522056</Data></Cell>
+			<Cell><Data ss:Type="String">19015973 - GIORDANA ZEFERINO MARIANO - 055.952.469-28</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156375</Data></Cell>
+			<Cell><Data ss:Type="String">2000077 - LAB BIOCLINICO CRICIUMA LTDA - 83653048000126</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278480</Data></Cell>
+			<Cell><Data ss:Type="String">2000077 - LABORATORIO BIOCLINICO CRICIUMA LTDA - 83.653.048/0001-26</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278478</Data></Cell>
+			<Cell><Data ss:Type="String">2000088 - LABORATORIO SANTA RITA LTDA - 75.785.576/0001-00</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">152788</Data></Cell>
+			<Cell><Data ss:Type="String">5000021 - TRENARE CENTRO DE CONDICIONAMENTO FISICO LTDA - 27097647000130</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">153243</Data></Cell>
+			<Cell><Data ss:Type="String">30030670 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05754281000353</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">192269</Data></Cell>
+			<Cell><Data ss:Type="String">4000051 - SOCIEDADE LITERARIA E CARITATIVA SANTO AGOSTINHO - 92.736.040/0008-90</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344640</Data></Cell>
+			<Cell><Data ss:Type="String">4000051 - SOCIEDADE LITERARIA E CARITATIVA SANTO AGOSTINHO - 92.736.040/0008-90</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">582011</Data></Cell>
+			<Cell><Data ss:Type="String">4000059 - UNIMED CRICIUMA COOPERATIVA TRABALHO MEDICO REGIAO CARBONIFERA - 82.996.703/0003-48</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479487</Data></Cell>
+			<Cell><Data ss:Type="String">40040805 - HOSPITAL SAO ROQUE - 85.666.774/0001-09</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278510</Data></Cell>
+			<Cell><Data ss:Type="String">40040810 - HOSPITAL SAO SEBASTIAO - 86.513.124/0001-96</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176289</Data></Cell>
+			<Cell><Data ss:Type="String">5000020 - CRESCER CLINICA DE FISIOTERAPIA LTDA - 80.094.378/0001-30</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173691</Data></Cell>
+			<Cell><Data ss:Type="String">5000020 - CRESCER CLINICA DE FISIOTERAPIA LTDA - 80094378000130</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">153218</Data></Cell>
+			<Cell><Data ss:Type="String">30030670 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05754281000353</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173688</Data></Cell>
+			<Cell><Data ss:Type="String">5000021 - TRENARE CENTRO DE CONDICIONAMENTO FISICO LTDA - 27097647000130</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">631562</Data></Cell>
+			<Cell><Data ss:Type="String">5000022 - CENTROSUL-CENTRO TERAPEUTICO DA REGIAO SUL LTDA - 81.535.650/0001-33</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">156821</Data></Cell>
+			<Cell><Data ss:Type="String">5000025 - JANSEN FISIOTERAPIA E ESTETICA LTDA - 04813361000108</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176305</Data></Cell>
+			<Cell><Data ss:Type="String">5000027 - FISIOCLINICA ICARA LTDA - 05.569.499/0001-76</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176227</Data></Cell>
+			<Cell><Data ss:Type="String">5001004 - CRIFISIO CLINICA DE FISIOTERAPIA - 01.501.164/0001-65</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">176306</Data></Cell>
+			<Cell><Data ss:Type="String">5001004 - CRIFISIO CLINICA DE FISIOTERAPIA - 01.501.164/0001-65</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">631594</Data></Cell>
+			<Cell><Data ss:Type="String">5001004 - CRIFISIO CLINICA DE FISIOTERAPIA - 01.501.164/0001-65</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">173690</Data></Cell>
+			<Cell><Data ss:Type="String">5001004 - CRIFISIO CLINICA DE FISIOTERAPIA - 01501164000165</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">217735</Data></Cell>
+			<Cell><Data ss:Type="String">3000011 - UNIDADE RADIOLOGICA CRICIUMA DE RESSONANCIA MAGNETICA-URC RM LTDA - 13.824.794/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278465</Data></Cell>
+			<Cell><Data ss:Type="String">20020959 - LABORATORIO DAROS LTDA ME - 08.476.828/0001-22</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">370219</Data></Cell>
+			<Cell><Data ss:Type="String">20020959 - LABORATORIO DAROS LTDA ME - 08.476.828/0001-22</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">380460</Data></Cell>
+			<Cell><Data ss:Type="String">20020959 - LABORATORIO DAROS LTDA ME - 08.476.828/0001-22</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278502</Data></Cell>
+			<Cell><Data ss:Type="String">20020960 - LABORATORIO BIOANALISES GAIVOTA LTDA - 08.262.548/0001-11</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278486</Data></Cell>
+			<Cell><Data ss:Type="String">20020961 - LABORATORIO VITALI LTDA - 09.542.753/0001-01</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278464</Data></Cell>
+			<Cell><Data ss:Type="String">20020982 - VITA ANALISE LABORATORIO - 09.636.738/0001-14</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">152667</Data></Cell>
+			<Cell><Data ss:Type="String">3000008 - URC - UNIDADE RADIOLOGICA CRICIUMA LTDA - 81317893000103</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">83591</Data></Cell>
+			<Cell><Data ss:Type="String">3000010 - DR FLAVIO PAULO ALTHOFF DIAGNOSTICO POR IMAGEM LTDA - 82995705000150</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">677695</Data></Cell>
+			<Cell><Data ss:Type="String">1013410 - JULIANO ZANETTE BORTOLOTTO - 036.796.649-23</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">217737</Data></Cell>
+			<Cell><Data ss:Type="String">3000011 - UNIDADE RADIOLOGICA CRICIUMA DE RESSONANCIA MAGNETICA-URC RM LTDA - 13.824.794/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">217740</Data></Cell>
+			<Cell><Data ss:Type="String">3000011 - UNIDADE RADIOLOGICA CRICIUMA DE RESSONANCIA MAGNETICA-URC RM LTDA - 13.824.794/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">223866</Data></Cell>
+			<Cell><Data ss:Type="String">3000011 - UNIDADE RADIOLOGICA CRICIUMA DE RESSONANCIA MAGNETICA-URC RM LTDA - 13.824.794/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">273757</Data></Cell>
+			<Cell><Data ss:Type="String">3000011 - UNIDADE RADIOLOGICA CRICIUMA DE RESSONANCIA MAGNETICA-URC RM LTDA - 13.824.794/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">273759</Data></Cell>
+			<Cell><Data ss:Type="String">3000011 - UNIDADE RADIOLOGICA CRICIUMA DE RESSONANCIA MAGNETICA-URC RM LTDA - 13.824.794/0001-50</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">217736</Data></Cell>
+			<Cell><Data ss:Type="String">3000016 - UNIDADE RADIOLOGICA CRICIUMA TOMOGRAFIA COMPUTADORIZADA - URC TC LTDA - 09.349.429/0001-63</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">85317</Data></Cell>
+			<Cell><Data ss:Type="String">3000144 - GESTAR ULTRA SONOGRAFIA E MEDICINA FETAL LTDA - 08686645000131</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">152792</Data></Cell>
+			<Cell><Data ss:Type="String">30030670 - CLINIIMAGEM DIAGNOSTICO POR IMAGEM LTDA - 05754281000353</Data></Cell>
+			<Cell><Data ss:Type="String">5 - Excluidos</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
