@@ -1,4 +1,5 @@
-import fitz  # PyMuPDF
+
+import fitz  # PyMuPDF 
 import tkinter as tk
 from tkinter import filedialog, messagebox
 from PIL import Image, ImageTk
@@ -73,6 +74,8 @@ class PDFViewer:
         self.page_num = 0
         self.marked_coords = {}
         self.drawn_items = {}
+        self.img_width = 0
+        self.img_height = 0
 
     def open_pdf(self):
         file_path = filedialog.askopenfilename(filetypes=[("PDF files", "*.pdf")])
@@ -85,6 +88,8 @@ class PDFViewer:
         if self.doc:
             page = self.doc.load_page(self.page_num)
             pix = page.get_pixmap()
+            self.img_width, self.img_height = pix.width, pix.height
+
             img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
             img_tk = ImageTk.PhotoImage(img)
 
@@ -107,7 +112,7 @@ class PDFViewer:
 
     def show_coordinates(self, event, page):
         x, y = event.x, event.y
-        y_pdf = self.canvas.winfo_height() - y
+        y_pdf = self.img_height - y
         x_mm = x * 25.4 / 72
         y_mm = y_pdf * 25.4 / 72
         self.coord_label.config(text=f"Coordenadas: (largura x: {x_mm:.2f} mm, altura y: {y_mm:.2f} mm)")
@@ -124,24 +129,47 @@ class PDFViewer:
 
     def mark_position(self, event):
         x, y = event.x, event.y
-        y_pdf = self.canvas.winfo_height() - y
+        y_pdf = self.img_height - y
         x_mm = x * 25.4 / 72
         y_mm = y_pdf * 25.4 / 72
 
         self.marked_coords.setdefault(self.page_num, []).append((x_mm, y_mm))
-        circle_id = self.canvas.create_oval(x-5, y-5, x+5, y+5, outline="blue", width=2)
-        self.drawn_items.setdefault(self.page_num, []).append(circle_id)
+        self.redraw_marks()
 
     def redraw_marks(self):
-        self.drawn_items.setdefault(self.page_num, [])
-        self.marked_coords.setdefault(self.page_num, [])
+        self.canvas.delete("all")
+        page = self.doc.load_page(self.page_num)
+        pix = page.get_pixmap()
+        img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
+        img_tk = ImageTk.PhotoImage(img)
+        self.canvas.create_image(0, 0, anchor="nw", image=img_tk)
+        self.canvas.image = img_tk
 
-        for x_mm, y_mm in self.marked_coords[self.page_num]:
+        self.drawn_items[self.page_num] = []
+
+        try:
+            sig_width_mm = float(self.sig_width_entry.get())
+            sig_height_mm = float(self.sig_height_entry.get())
+        except ValueError:
+            sig_width_mm = 50
+            sig_height_mm = 20
+
+        width_pt = sig_width_mm * 72 / 25.4
+        height_pt = sig_height_mm * 72 / 25.4
+
+        for x_mm, y_mm in self.marked_coords.get(self.page_num, []):
             x_pt = x_mm * 72 / 25.4
             y_pt = y_mm * 72 / 25.4
-            y_tk = self.canvas.winfo_height() - y_pt
-            circle_id = self.canvas.create_oval(x_pt-5, y_tk-5, x_pt+5, y_tk+5, outline="blue", width=2)
-            self.drawn_items[self.page_num].append(circle_id)
+            y_tk = self.img_height - y_pt
+
+            x1 = x_pt
+            y1 = y_tk - height_pt
+            x2 = x_pt + width_pt
+            y2 = y_tk
+
+            color = random.choice(self.rainbow_colors)
+            rect_id = self.canvas.create_rectangle(x1, y1, x2, y2, outline=color, width=2)
+            self.drawn_items[self.page_num].append(rect_id)
 
     def go_to_coordinates(self):
         try:
@@ -155,7 +183,7 @@ class PDFViewer:
             width_pt = sig_width_mm * 72 / 25.4
             height_pt = sig_height_mm * 72 / 25.4
 
-            y_tk = self.canvas.winfo_height() - y_pt
+            y_tk = self.img_height - y_pt
 
             x1 = x_pt
             y1 = y_tk - height_pt
@@ -166,6 +194,7 @@ class PDFViewer:
             rect_id = self.canvas.create_rectangle(x1, y1, x2, y2, outline=color, width=2)
 
             self.drawn_items.setdefault(self.page_num, []).append(rect_id)
+            self.marked_coords.setdefault(self.page_num, []).append((x_mm, y_mm))
         except ValueError:
             print("Por favor, insira valores numéricos válidos.")
 
@@ -205,7 +234,7 @@ class PDFViewer:
                         w_pt = w_mm * 72 / 25.4
                         h_pt = h_mm * 72 / 25.4
 
-                        y_tk = self.canvas.winfo_height() - y_pt
+                        y_tk = self.img_height - y_pt
 
                         x1 = x_pt
                         y1 = y_tk - h_pt
